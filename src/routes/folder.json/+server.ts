@@ -14,5 +14,5 @@ export type MungedFolder = Awaited<ReturnType<typeof generateFolder>>;
 // Do everything in here apart from calling `json` to convert the result to a Response.
 // That way, `MungedFolder` can be used in `src/routes/+layout.ts` to type the data.
 function generateFolder() {
-	return generateFolderFromLatex('MyTunebook', './data/folder.tex').then(addNextPreviousSlugs);
+	return generateFolderFromLatex('CCAS Tunebook', './data/folder.tex').then(addNextPreviousSlugs);
 }

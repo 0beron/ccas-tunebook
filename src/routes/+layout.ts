@@ -5,7 +5,8 @@ export const prerender = true;
 
 // This is where the site gets the data for your tunes and sets
 export function load({ fetch }: LoadEvent): Promise<{ folder: MungedFolder }> {
-	return fetch('/folder.json')
+       const basePath = '/ccas-tunebook';
+       return fetch(`${basePath}/folder.json`)
 		.then((res) => res.json())
 		.then((folder) => ({
 			folder
