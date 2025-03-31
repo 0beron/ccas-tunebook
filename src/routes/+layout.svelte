@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-	<base href="{base}" />
+	<base href="{base}/" />
 </svelte:head>
 
 {@render children?.()}
