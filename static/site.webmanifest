@@ -1,5 +1,5 @@
 {
-	"name": "MyTunebook",
+	"name": "Cambridge Ceilidh Allstars Tunebook",
 	"icons": [
 		{
 			"src": "/favicon.png",
@@ -7,7 +7,7 @@
 			"type": "image/png"
 		}
 	],
-	"theme_color": "#fed700",
-	"background_color": "#fed700",
+	"theme_color": "#028200",
+	"background_color": "#028200",
 	"display": "standalone"
 }

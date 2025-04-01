@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>{data.set.name} | MyTunebook</title>
+	<title>{data.set.name} | Cambridge Ceilidh Allstars Tunebook</title>
 </svelte:head>
 
 <nav>

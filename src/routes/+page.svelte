@@ -6,9 +6,9 @@
 </script>
 
 <svelte:head>
-	<title>MyTunebook</title>
+	<title>CCASTunebook</title>
 </svelte:head>
 
-<h1>Welcome to MyTunebook</h1>
+<h1>Cambridge Ceilidh Allstars Tunebook</h1>
 <GlobalTranspositionButtons showClefSwitcher />
 <FilterableSetsGrid folder={data.folder} tuneFont="My Custom Font" basePath="{baseWithTrailingSlash}" />
