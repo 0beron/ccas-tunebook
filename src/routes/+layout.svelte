@@ -8,7 +8,7 @@
 
 	let { children }: Props = $props();
 	// If you want a custom font from fontsource, import it here, eg
-	// import '@fontsource/my-custom-font/400.css';  // use My Custom Font at weight 400
+	import '@fontsource/signika-negative/400.css';
 </script>
 
 <svelte:head>

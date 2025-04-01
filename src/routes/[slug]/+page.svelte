@@ -17,7 +17,7 @@
 	set={data.set}
 	displayAbcFields="TNC"
 	folderName={data.folder.name}
-	fontFamily="My Custom Font"
+	fontFamily="Signika Negative"
 	showClefSwitcher
 >
 	{#each data.set.notes as note (note)}

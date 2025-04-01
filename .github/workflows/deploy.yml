@@ -19,6 +19,9 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      - name: Install font
+        run: pnpm add @fontsource-variable/signika-negative
+
       - name: build
         env:
           BASE_PATH: '/${{ github.event.repository.name }}'
