@@ -16,11 +16,11 @@ jobs:
         with:
           version: 8
 
-      - name: Install dependencies
-        run: pnpm install
-
       - name: Install font
         run: pnpm add @fontsource-variable/signika-negative
+
+      - name: Install dependencies
+        run: pnpm install
 
       - name: build
         env:
