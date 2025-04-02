@@ -11,4 +11,4 @@
 
 <h1>Cambridge Ceilidh Allstars Tunebook</h1>
 <GlobalTranspositionButtons showClefSwitcher />
-<FilterableSetsGrid folder={data.folder} tuneFont="Signika Negative" basePath="{baseWithTrailingSlash}" />
+<FilterableSetsGrid folder={data.folder} tuneFont="Signika Negative Variable" basePath="{baseWithTrailingSlash}" />
