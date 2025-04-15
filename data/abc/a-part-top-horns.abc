@@ -1,0 +1,10 @@
+X:1
+T:A-Part
+L:1/8
+Q:3/8=130
+M:6/8
+K:G
+ [GBd]2 [GBd]- [GBd]2 z |[DFA]2 [DFA]- [DFA]2 z | [EGB]2 [EGB]- [EGB]2 z | [ceg]2 z [dfa]2 z |
+ [GBd]2 [GBd]- [GBd]2 z |[DFA]2 [DFA]- [DFA]2 z | [EGB]2 z [ceg]2 z | [DFA]2 z [GBd]2 z ::
+ z z [DGB]2 z z |z z [EGB]2 z z | z z [CEG]2 z z | z z [DFA]2 z z |
+ [GBd]4 z z | [ceg]4 z z | [DFA]4 z z |[GBd]4 z z :|
