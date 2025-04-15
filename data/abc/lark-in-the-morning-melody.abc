@@ -1,0 +1,17 @@
+X:1
+T:Lark In The Morning
+L:1/8
+Q:1/4=140
+M:6/8
+K:D
+[M:6/8]"D""^Lark In The Morning (A-Part)"[Q:3/8=120]"^\n" AFA AFA |"G" BGB BdB |"D" AFA AFA |"Bm7" fed BdB |
+"D" AFA AFA |"G" BGB BdB |"Bm7" def afe |"A" dBB BdB ::
+"D""^(B-Part)" def afe |"D" bff afe |"G" def afe |"G" dBB BdB |
+"Bm7" def afe |"Bm7" bff afe |"A" g2 e f-f d |"A" edB BdB ::
+"D""^(C-Part)" dff fef |"D" fef fef |"Am7" dff fef |"Am7" edB BdB |
+"Em7" dff fef |"Em7" fef def |"Am7" g2 e f-f d |"Am7" edB BdB ::
+"D""^(D-Part)" Add fdd |"D" edd fdd |"C" Add fdd |"C" edB BdB |
+"Bm7" Add fdd |"Bm7" edB def |"A" g2 e f-f d |"A" edB BdB ::
+"D""^D-Part Last Time (end of dance sets)" Add fdd |"D" edd fdd |"C" Add fdd |"C" edB BdB |
+"Bm7" Add fdd |"Bm7" edB def |"Am7" g2 e f-f d |"Am7" edB BdB :|
+"D" d2 d2 d2 |"D" d2 d2 d2 | z6 |"D7" d6 |]
