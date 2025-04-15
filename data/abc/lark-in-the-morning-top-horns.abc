@@ -4,7 +4,7 @@ L:1/8
 Q:1/4=140
 M:6/8
 K:D
-[M:6/8] [DFA] z [DFA] z z [DFA] | [DGB] z [DGB] z z [DGB] | [DFA] z [DFA] z z [DFA] |[DFB] z [DFB] z z [DFA] |
+ [DFA] z [DFA] z z [DFA] | [DGB] z [DGB] z z [DGB] | [DFA] z [DFA] z z [DFA] |[DFB] z [DFB] z z [DFA] |
  [DFA] z [DFA] z z [DFA] | [DGB] z [DGB] z z [DGB] |[DFB] z [DFB] z z [DFB] | [CEA] z [CEA] z z [CEA] ::
  z6 | z6 | z6 | z6 |
  z2 [DFB]- [DFB]2 z |z2 [DFB]- [DFB]2 z | z2 [CEA]- [CEA]2 z | z2 [CEA]- [CEA]2 z ::
