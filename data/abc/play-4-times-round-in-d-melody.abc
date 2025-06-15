@@ -1,10 +1,10 @@
 X:1
-T:Play 4 times round in D
+T:4 times in D
 L:1/8
 Q:1/4=160
 M:6/8
 K:D
-|:"D""^Play 4 times round in D" z6 |"D" z6 |"D""G" z6 |"D" z6 :|
-"G" z6 |"Em" z6 |"A" z6 |"A" z6 |
+|:"D""^4 times in D" F2 G F2 E |"D" D3 D2 F |"D" A2 A"G" B2 B |"D" A3- A2 z :|
+"G" B2 B B2 F |"Em" G3 G2 G |"A" A2 A A2 E |"A" F3- F z2 |
 "D" D3 EFG |"D" F3 A3 |"G" E2 G"A" F2 E |"D" D2 B, A,2 z |
 "D" D3 EFG |"D" F3 A3 |"G" E2 G"A" F2 E |"D" D3- D z |]:
