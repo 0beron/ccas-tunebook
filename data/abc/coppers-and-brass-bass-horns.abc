@@ -4,9 +4,9 @@ L:1/8
 Q:1/4=160
 M:6/8
 K:G
-|: z6 | z6 | z6 | z6 |
- z6 | z6 | z6 | z6 :| z6 |:
- z6 | z6 | z6 | z6 |
- z6 | z6 | z6 | z6 :|z6 |:
- G, z G,4 | C, z C,4 | E, z E,4 | D, z D,4 |
- G, z G,4 | C, z C,4 | E, z E,4 | D,3 G,3 :|D,3 G,,3 |:
+|:"G" z6 |"C" z6 |"G" z6 |"D" z6 |
+"G" z6 |"C" z6 |"D" z6 |"C""G" z6 :|"C""G" z6 |:
+"D" z6 |"D" z6 |"G" z6 |"D" z6 |
+"D" z6 |"D" z6 |"G" z6 |"C""G" z6 :|"C""G" z6 |:
+"G" G, z G,4 |"C" C, z C,4 |"Em" E, z E,4 |"D" D, z D,4 |
+"G" G, z G,4 |"C" C, z C,4 |"Em" E, z E,4 |"C" D,3"G" G,3 :|"C" D,3"G" G,,3 |:
