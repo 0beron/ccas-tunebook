@@ -1,10 +1,11 @@
 X:1
 T:A-Part
-L:1/8
+L:1/4
 Q:3/8=130
 M:6/8
 K:G
- [GBd]2 [GBd]- [GBd]2 z |[DFA]2 [DFA]- [DFA]2 z | [EGB]2 [EGB]- [EGB]2 z | [ceg]2 z [dfa]2 z |
- [GBd]2 [GBd]- [GBd]2 z |[DFA]2 [DFA]- [DFA]2 z | [EGB]2 z [ceg]2 z | [DFA]2 z [GBd]2 z ::
- z z [DGB]2 z z |z z [EGB]2 z z | z z [CEG]2 z z | z z [DFA]2 z z |
- [GBd]4 z z | [ceg]4 z z | [DFA]4 z z |[GBd]4 z z :|
+ [GBd] [GBd]/- [GBd] z/ |[DFA] [DFA]/- [DFA] z/ | [EGB] [EGB]/- [EGB] z/ | [ceg] z/ [dfa] z/ |
+ [GBd] [GBd]/- [GBd] z/ |[DFA] [DFA]/- [DFA] z/ | [EGB] z/ [ceg] z/ | [DFA] z/ [GBd] z/ ::
+ z [DGB] z | z [EGB] z |z [CEG] z | z [DFA] z |
+ [GBd]2 z | [ceg]2 z | [DFA]2 z | [GBd]2 z :|
+ z3/2 !fermata![GBd]3/2 |]

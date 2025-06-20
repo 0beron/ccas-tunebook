@@ -1,10 +1,11 @@
 X:1
 T:A-Part
-L:1/8
+L:1/4
 Q:3/8=130
 M:6/8
 K:G
- G,2 z D,2 z | D,2 z A,,2 z | E,2 z B,,2 z |C,2 z D,2 z |
- G,2 z D,2 z | D,2 z A,,2 z | E,2 z D,2 z | D,2 z G,2 z ::
- G,4 z z | E,4 z z |C,4 z z | D,4 z z |
- z z D,4 | z z C,4 | z z D,4 | G,,6 :|
+ G, z/ D, z/ | D, z/ A,, z/ | E, z/ B,, z/ |C, z/ D, z/ |
+ G, z/ D, z/ | D, z/ A,, z/ | E, z/ D, z/ | D, z/ G, z/ ::
+ G,2 z | E,2 z | C,2 z |D,2 z |
+ z D,2 | z C,2 | z D,2 | G,,3 :|
+ z3/2 !fermata!G,,3/2 |]
