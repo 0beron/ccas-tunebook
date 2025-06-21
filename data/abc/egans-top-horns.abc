@@ -6,9 +6,9 @@ M:2/4
 K:D
 "D" f z B z |"D" d z A z |"G" d z e z |"A" e z B z |
 "D" d z A z |"D" d z A z |"G" g z"A" A z |"D" d4 ::
-"D"D z/ F/- FA |"Em" E z/ G/- GB |"G" G z/ B/- Bd |"A" A z/ c/- ce |
-"D" D z/ F/- FA |"Em"E z/ G/- GB |"G" G z/ B/-"Em" Bd |"A" A2"D" d2 ::
-"D" z [fa] e^g[fa]/ z/ |"D"z [fa] e^g[fa]/ z/ |"G" z4 |"A" z4 |
-"D" z [fa] e^g[fa]/ z/ |"D" z [fa] e^g[fa]/ z/ |"G"z4"A" |"D" z4 ::
-"D" d z f z |"Em" z [DF] [EG][FA] |"G" [GB] z d z |"A" z [Ac] [Bd][ce] |
-"D" d z f z |"Em"z [DF] [EG][FA] |"G" G2"Em" E2 |"A" A2"D" d2 :|
+"D"!>!.D z/ F/- F.A |"Em" !>!.E z/ G/- G.B |"G" !>!.G z/ B/- B.d |"A" !>!.A z/ c/- c.e |
+"D" !>!.D z/ F/- F.A |"Em"!>!.E z/ G/- G.B |"G" !>!.G z/ B/-"Em" B.d |"A" .A2"D" .d2 ::
+"D" z .[fa] ([^e^g].[fa]/) z/ |"D"z .[fa] ([^e^g].[fa]/) z/ |"G" z4 |"A" z4 |
+"D" z .[fa] ([^e^g].[fa]/) z/ |"D" z .[fa] ([^e^g].[fa]/) z/ |"G"z4"A" |"D" z4 ::
+"D" .d z .f z |"Em" z .[DF] ([EG].[FA]) |"G" .[GB] z .d z |"A" z .[Ac] ([Bd].[ce]) |
+"D" .d z .f z |"Em"z .[DF] ([EG].[FA]) |"G" !>!.G2"Em" !>!.E2 |"A" !>!.A2"D" !>!.d2 :|
