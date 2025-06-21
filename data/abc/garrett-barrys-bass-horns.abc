@@ -1,10 +1,10 @@
 X:1
 T:Garrett Barry's
-L:1/4
+L:1/8
 Q:1/4=160
 M:6/8
 K:G
- z3 | z3 | z3 | z3 |
- z3 | z3 | z3 |z3 ::
- D,2 z | A,,2 z | C,2 z | G,,2 z |
- D,2 z | A,,2 z | C, z/ G,, z/ | D,2 z ::
+"D" z6 |"Am" z6 |"C" z6 |"G" z6"C" |
+"D" z6 |"Am" z6 |"C"z6"G" |"D" z6 ::
+"D" D,4 z2 |"Am" A,,4 z2 |"C" C,4 z2 |"G" G,,4 z2 |
+"D" D,4 z2 |"Am" A,,4 z2 |"C" C,2 z"G" G,,2 z |"D" D,4 z2 ::

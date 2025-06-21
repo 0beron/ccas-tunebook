@@ -4,7 +4,7 @@ L:1/8
 Q:1/4=160
 M:6/8
 K:G
- G z G z z G | E z E z z E | c z c z z c | d z d z z d |
- G z G z z G |E z E z z E | c z c z z c | G z G z z G ::
-!<(! g3 f3 | e3 d3 | c z c z z c | d z d z z d!<)! |
-g3 f3 | e3 d3 | c z c z3 | G z G z3 :| c z c c z c | c z c c z c |]:
+"G" G z G z z G |"Em" E z E z z E |"C" c z c z z c |"D" d z d z z d |
+"G" G z G z z G |"Em"E z E z z E |"C" c z c"D" z z c |"G" G z G z z G ::
+"G" g3 f3 |"Em" e3 d3 |"C" c z c z z c |"D" d z d z z d |
+"G"g3 f3 |"Em" e3 d3 |1"C" c z c"D" z3 |"G" G z G z3 :|2"C" c z c c z c |"D" c z c c z c |

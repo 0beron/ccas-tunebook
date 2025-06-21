@@ -3,13 +3,13 @@ T:Lark In The Morning
 L:1/8
 M:6/8
 K:D
- z6 | z6 | z6 | z6 |
- D,3 z3 | G,3 z3 | A,3 z3 | E,3 z3 ::
-D,3 z2 z | F,3 z2 z | G,3 z2 z | B,3 z2 z |
- A,3 z3 | F,3 z3 | E,3 z3 | C,3 z3 ::
- z2 A,- A,2 z |z2 F,- F,2 z | z2 D,- D,2 z | z2 G,,- G,,2 z |
- z2 F,- F,2 z | z2 D,- D,2 z | z2 =C,- C,2 z |z2 B,,- B,,2 z ::
- D,3 z3 | D,3 z3 | =C,3 z3 | =C,3 z3 |
- B,,3 z3 | B,,3 z3 | A,,3 z3 |A,,3 z3 ::
- z3 B,,3 | z3 D,3 | z3 F,3 | z3 A,3 |
-!<(! =B,4 z2 | A,3 G,3 | E,4 z2 | D,3 =C,3!<)! :|
+"D" z6 |"G" z6 |"D" z6 |"Bm7" z6 |
+"D" D,3 z3 |"G" G,3 z3 |"Bm7" A,3 z3 |"A" E,3 z3 ::
+"D"D,3 z2 z |"D" F,3 z2 z |"G" G,3 z2 z |"G" B,3 z2 z |
+"Bm7" A,3 z3 |"Bm7" F,3 z3 |"A" E,3 z3 |"A" C,3 z3 ::
+"D" z2 A,- A,2 z |"D"z2 F,- F,2 z |"Am7" z2 D,- D,2 z |"Am7" z2 G,,- G,,2 z |
+"Em7" z2 F,- F,2 z |"Em7" z2 D,- D,2 z |"Am7" z2 =C,- C,2 z |"Am7"z2 B,,- B,,2 z ::
+"D" D,3 z3 |"D" D,3 z3 |"C" =C,3 z3 |"C" =C,3 z3 |
+"Bm7" B,,3 z3 |"Bm7" B,,3 z3 |"A" A,,3 z3 |"A"A,,3 z3 ::
+"D" z3 B,,3 |"D" z3 D,3 |"C" z3 F,3 |"C" z3 A,3 |
+"Bm7" =B,4 z2 |"Bm7" A,3 G,3 |"Am7" E,4 z2 |"Am7" D,3 =C,3 :|

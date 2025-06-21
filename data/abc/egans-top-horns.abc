@@ -4,11 +4,11 @@ L:1/8
 Q:1/4=110
 M:2/4
 K:D
- f z B z | d z A z | d z e z | e z B z |
- d z A z | d z A z | g z A z | d4 ::
-!>!.D z/ F/- F.A | !>!.E z/ G/- G.B | !>!.G z/ B/- B.d | !>!.A z/ c/- c.e |
- !>!.D z/ F/- F.A |!>!.E z/ G/- G.B | !>!.G z/ B/- B.d | .A2 .d2 ::
- z .[fa] ([^e^g].[fa]/) z/ |z .[fa] ([^e^g].[fa]/) z/ | z4 | z4 |
- z .[fa] ([^e^g].[fa]/) z/ | z .[fa] ([^e^g].[fa]/) z/ |z4 | z4 ::
- .d z .f z | z .[DF] ([EG].[FA]) | .[GB] z .d z | z .[Ac] ([Bd].[ce]) |
- .d z .f z |z .[DF] ([EG].[FA]) | !>!.G2 !>!.E2 | !>!.A2 !>!.d2 :|
+"D" f z B z |"D" d z A z |"G" d z e z |"A" e z B z |
+"D" d z A z |"D" d z A z |"G" g z"A" A z |"D" d4 ::
+"D"D z/ F/- FA |"Em" E z/ G/- GB |"G" G z/ B/- Bd |"A" A z/ c/- ce |
+"D" D z/ F/- FA |"Em"E z/ G/- GB |"G" G z/ B/-"Em" Bd |"A" A2"D" d2 ::
+"D" z [fa] e^g[fa]/ z/ |"D"z [fa] e^g[fa]/ z/ |"G" z4 |"A" z4 |
+"D" z [fa] e^g[fa]/ z/ |"D" z [fa] e^g[fa]/ z/ |"G"z4"A" |"D" z4 ::
+"D" d z f z |"Em" z [DF] [EG][FA] |"G" [GB] z d z |"A" z [Ac] [Bd][ce] |
+"D" d z f z |"Em"z [DF] [EG][FA] |"G" G2"Em" E2 |"A" A2"D" d2 :|

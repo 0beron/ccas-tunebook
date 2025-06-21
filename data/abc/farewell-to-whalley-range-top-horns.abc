@@ -4,7 +4,7 @@ L:1/8
 Q:1/4=180
 M:9/8
 K:A
- [cfa]2 [cfa]- [cfa]2 z z3 |[cea]2 [cea]- [cea]2 z z3 | [DFB]2 [DFB]- [DFB]2 z z3 | [ceg]2 [ceg]- [ceg]2 z z3 |
-[cfa]2 [cfa]- [cfa]2 z z3 | [cea]2 [cea]- [cea]2 z z3 | [DFB]2 [DFB]- [DFB]2 z z3 |[ceg]2 [ceg]- [ceg]2 z z3 |
- [DFA]6 z3 | [EGB]6 z3 | [Bdf]6 z3 | [ceg]6 z3 |
-!<(! [dfa]6 z3 |[Beg]6 z3 | [Bdf]6 z3 | [Gce]6 z3!<)! ||
+"F#m" [cfa]2 [cfa]- [cfa]2 z z3 |"A"[cea]2 [cea]- [cea]2 z z3 |"Bm" [DFB]2 [DFB]- [DFB]2 z z3 |"C#m" [ceg]2 [ceg]- [ceg]2 z z3 |
+"F#m"[cfa]2 [cfa]- [cfa]2 z z3 |"A" [cea]2 [cea]- [cea]2 z z3 |"Bm" [DFB]2 [DFB]- [DFB]2 z z3 |"C#m"[ceg]2 [ceg]- [ceg]2 z z3 |
+"D" [DFA]6 z3 |"E" [EGB]6 z3 |"Bm" [Bdf]6 z3 |"C#m" [ceg]6 z3 |
+"D" [dfa]6 z3 |"E"[Beg]6 z3 |"Bm" [Bdf]6 z3 |"C#m" [Gce]6 z3 ||
