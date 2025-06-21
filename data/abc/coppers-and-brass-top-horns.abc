@@ -4,9 +4,9 @@ L:1/8
 Q:1/4=160
 M:6/8
 K:G
-|:"G" z6 |"C" z6 |"G" z6 |"D" z6 |
-"G" z6 |"C" z6 |"D" z6 |1"C" z6"G" :|2"C" z6"G" |:
-"D" D z D4 |"D" D z D4 |"G" G z G4 |"D" D z D4 |
-"D" D z D4 |"D"D z D4 |"G" G z G4 |1"C" c3"G" G3 :|2"C" c3"G" G3 |:
-"G" z6 |"C" z6 |"Em" z6 |"D" z6 |
-"G" z6 |"C" z6 |"Em" z6 |1"C" z6"G" :|2"C" z6"G" |:
+|:"G" G z2 z3 |"C" c z2 FGA |"G" G z2 z3 |"D" D z2 DEF |
+"G" G z2 z3 |"C" c z2 ABc |"D" d z2 edc |1"C" A z2"G" G z2 :|2"C"A z2"G" G z2 |:
+"D" !>!d z2 z3 |"D" z6 |"G" !>!G z2 z3 |"D" c3 ^c3 |
+"D" d z2 z3 |"D" z6 |"G" G3 c3 |1"C" d3"G" G3 :|2"C" c3"G" G3 |:
+"G"!>!G z2 z3 |"C" z6 |"Em" z6 |"D" z6 |
+"G" !>!g z2 z3 |"C" z6 |"Em" G3 c3 |1"C" d3"G" G3 :|2"C" d3"G" G3 |:

@@ -7,5 +7,4 @@ K:G
 "G" [GBd]2 [GBd]- [GBd]2 z |"D"[DFA]2 [DFA]- [DFA]2 z |"Em" [EGB]2 [EGB]- [EGB]2 z |"C" [ceg]2 z"D" [dfa]2 z |
 "G" [GBd]2 [GBd]- [GBd]2 z |"D"[DFA]2 [DFA]- [DFA]2 z |"Em" [EGB]2 z"C" [ceg]2 z |"D" [DFA]2 z"G" [GBd]2 z ::
 "G" z2 [DGB]2 z2 |"Em" z2 [EGB]2 z2 |"C"z2 [CEG]2 z2 |"D" z2 [DFA]2 z2 |
-"G" [GBd]4 z2 |"C" [ceg]4 z2 |"D" [DFA]4 z2 |"G" [GBd]4 z2 :|
-z3 !fermata![GBd]3 |
+"G" [GBd]4 z2 |"C" [ceg]4 z2 |"D" [DFA]4 z2 |"G" [GBd]4 z2 :|z3 !fermata![GBd]3 |
