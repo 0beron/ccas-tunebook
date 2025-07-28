@@ -1,0 +1,13 @@
+X:1
+T:Lark In The Morning
+L:1/8
+M:6/8
+K:D
+"D" [DFA] z [DFA] z2 [DFA] |"G" [DGB] z [DGB] z2 [DGB] |"D" [DFA] z [DFA] z2 [DFA] |"Bm7"[DFB] z [DFB] z2 [DFA] |
+"D" [DFA] z [DFA] z2 [DFA] |"G" [DGB] z [DGB] z2 [DGB] |"Bm7"[DFB] z [DFB] z2 [DFB] |"A" [CEA] z [CEA] z2 [CEA] ::
+"D" z6 |"D" z6 |"G" z6 |"G" z6 |
+"Bm7" z2 [DFB]- [DFB]2 z |"Bm7"z2 [DFB]- [DFB]2 z |"A" z2 [CEA]- [CEA]2 z |"A" z2 [CEA]- [CEA]2 z ::
+"D" D4 z2 |"D" F4 z2 |"Am7" G4 z2 |"Am7" B4 z2 |
+"Em7"d4 z2 |"Em7" g4 z2 |"Am7" g4 z2 |"Am7" b4 z2 ::
+"D" A3 B3 |"D" =c3 d3 |"C" e3 f3 |"C" g3 a3 |
+"Bm7"!<(! g2 f2 e2 |"Bm7" d2 A2 B2 |"Am7"=c2 B2 A2 |"Am7" G6!<)! :|

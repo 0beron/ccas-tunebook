@@ -1,0 +1,10 @@
+X:1
+T:Farewell to Whalley Range (Michael McGoldrick)
+L:1/8
+Q:1/4=180
+M:9/8
+K:A
+"F#m" [cfa]2 [cfa]- [cfa]2 z z3 |"A"[cea]2 [cea]- [cea]2 z z3 |"Bm" [Bdf]2 [Bdf]- [Bdf]2 z z3 |"C#m" [ceg]2 [ceg]- [ceg]2 z z3 |
+"F#m"[cfa]2 [cfa]- [cfa]2 z z3 |"A" [cea]2 [cea]- [cea]2 z z3 |"Bm" [Bdf]2 [Bdf]- [Bdf]2 z z3 |"C#m"[ceg]2 [ceg]- [ceg]2 z z3 |
+"D" [DFA]6 z3 |"E" [EGB]6 z3 |"Bm" [Bdf]6 z3 |"C#m" [ceg]6 z3 |
+"D"!<(! [dfa]6 z3 |"E"[Beg]6 z3 |"Bm" [Bdf]6 z3 |"C#m" [Gce]6 z3!<)! ||
