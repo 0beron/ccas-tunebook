@@ -8,7 +8,7 @@ K:D
 "D" d4 |"D" A4 |"G" G2"A" A2 |"D"d4 ::
 "D" z4 |"G" z4 |"Em" z4 |"A" z4 |
 "Bm"!f! B2 A2 |"A" G2 F2 |"G" G2"A" A2 |"D" D4 ::
-"D" .D z z (^G |"D" .A) z z2 |"G" G2 E2 |"A"A2 c2 |
-"D" .d z z ([^G=f] |"D" .[A^f]) z z2 |"G" G2"A" A2 |"D" d4 ::
+"D" .D z z ([^Gc] |"D" [.Ad) z z2 |"G" [GB]2 [EG]2 |"A"A2 c2 |
+"D" .d z z ([^G=f] |"D" .[A^f]) z z2 |"G" [GB]2"A" [Ac]2 |"D" d4 ::
 "D" z4 |"G" z4 |"Em" z4 |"A" z4 |
 "Bm" B4 |"A" A4 |"G" G2"A" A2 |"D"D4 :|
