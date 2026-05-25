@@ -1,0 +1,20 @@
+X:1
+T:John Ryan's
+L:1/8
+Q:1/4=110
+M:2/4
+K:D
+"^John Ryan's 1st time" z4 |z4 | z4 | z4 |
+ z4 | z4 | z4 | z4 ||
+ z4 | z4 | z4 | z4 |
+ z4 | z4 | z4 | z4 |:
+"D" fd de/f/ |"G" gf"A7" ed/e/ |"D" fd Ad |"A7" fe/f/ a>g |
+"D" fd de/f/ |"G" gf"A" ed/e/ |"D" fd"A7" ec |1"D" d2 dd/e/ :|2"D" d2 d2 |:
+"^John Ryan's 2nd time" !>![FAd]/ z/ !>![FAd]/ z/ z2 | z4 |!>![FAd]/ z/ !>![FAd]/ z/ z2 | z4 |
+ !>![FAd]/ z/ !>![FAd]/ z/ z2 | z2 z d/e/ |"D" fd"A7" ec |1"D" d2 d2 :|2"D" d2 d"A7"d/e/ |:
+"D" fd de/f/ |"G" gf"A7" ed/e/ |"D" fd Ad | fe/f/"A7" a>g |
+"D" fd de/f/ |"G" gf"A7" ed/e/ |"D" fd"A7" ec |1"D" d2 dd/e/ :|2"D" d2 d2 |:
+"^John Ryan's last time" [df][df]"G" [Bd]/[ce]/[df]/[Bd]/ |"D" [Ad][FA] [Ad][FA] |[df][df]"G" [Bd]/[ce]/[df]/[Bd]/ |"A" [Ad][FA]"D" [EG][DF] |
+"^John Ryan's last time" [df][df]"G" [Bd]/[ce]/[df]/[Bd]/ |"D" [Ad][FA] [Ad][df]/[eg]/ |"D" [ff][df]"A7" [eg][ce] |1"D" [df]2 [df]2 :|2"D" [df]2 [df]"A7"[df]/[eg]/ |:
+"D" [fa][df] [df][eg]/[fa]/ |"G" [gb][fa]"A7" [eg][df]/[eg]/ |"D" [fa][df] [Ad][df] |"A7" [fa][eg]/[fa]/ [ac']>[gb] |
+"D" [fa][df] [df][eg]/[fa]/ |"G" [gb][fa]"A7" [eg][df]/[eg]/ |"D" [fa][df]"A7" [eg][ce] |1"D" [df]2 [df][df]/[eg]/ :|2"D" [df]2 [df]2 |]
