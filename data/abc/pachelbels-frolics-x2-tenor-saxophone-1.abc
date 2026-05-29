@@ -1,0 +1,11 @@
+X:1
+T:Pachelbel's Frolics x2
+L:1/8
+Q:1/4=180
+M:4/4
+K:D
+"D" z2 f2- f2 .f2 |"A"z2 e2- e2 .e2 |"Bm" z2 d2- d2 .d2 |"F#m" z2 (c2 c2) .c2 |
+"G" z2 (B2 B2) .B2 |"D" z2 A2- A2 .A2 |"G" z4 D2 D2 |1"A7"A2 E2"A" E4 :|2
+"A" A2 E2"D" F4 |:"D" z2 d2 z2 d2 |"A" z2 c2 z2 c2 |"Bm" z2 B2 z2 B2 |
+"F#m" z2 A2 z2 A2 |"G" z2 B2 z2 B2 |"D"z2 A2 z2 A2 |"G" z2 B2 z2 B2 |1
+"A7" z2 c2"A" z2 c2 :|2"A" z2 c2"D" d4 ||"A" z2 .c2 z4 |"D" !fermata!d8 |
