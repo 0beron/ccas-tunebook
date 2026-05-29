@@ -1,0 +1,260 @@
+% build me with 
+% xelatex -shell-escape folder.tex 
+
+\documentclass[a4paper,11pt]{article}
+\usepackage[nogenerate,ps2eps,nosaveall]{fcabc}
+\usepackage[scale=0.8]{geometry}
+\usepackage[toc]{multitoc}
+\renewcommand*{\multicolumntoc}{2}
+\usepackage{mathptmx}
+\usepackage{hyperref}
+\usepackage{fontspec}
+
+% See https://tex.stackexchange.com/a/36881
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+
+
+\begin{document}
+\title{Tunebook demo folder}
+\author{Flying Cat Band}
+
+\makeatletter
+\begin{titlepage}
+    \begin{center}
+        \topskip0pt
+        % \vspace*{\fill}
+        {\huge \bfseries  \@title }\\[2ex]
+        {\LARGE  \@author}\\[50ex]
+        % {\large \@date}
+        % \vspace*{\fill}
+    \end{center}
+\end{titlepage}
+\makeatother
+\thispagestyle{empty}
+\newpage
+
+\pagenumbering{gobble}
+\maketitle
+\tableofcontents
+\clearpage
+
+\setcounter{page}{1} %Start the actually document on page 1
+\pagenumbering{arabic}
+
+% you can filter on sections on the homepage
+\section{TEMPLATE}
+
+\subsection{Intro}
+\abcinput{abc/the-kesh-jig}
+\abcinput{abc/chords-intro}
+\abcinput{abc/a-part}
+\clearpage
+
+\subsection{Virginia Reel}
+\abcinput{abc/oh-susanna}
+\abcinput{abc/brighton-camp}
+\abcinput{abc/the-rose-tree}
+\abcinput{abc/back-to-oh-susanna}
+\clearpage
+
+\subsection{Quakers Wife}
+\abcinput{abc/the-quakers-wife}
+\abcinput{abc/the-old-favourite}
+\abcinput{abc/garrett-barrys}
+\abcinput{abc/lisnagun}
+\abcinput{abc/back-to-the-quakers-wife}
+\clearpage
+
+\subsection{All The Way To Galway}
+\abcinput{abc/all-the-way-to-galway}
+\abcinput{abc/tralee-gaol}
+\abcinput{abc/egans}
+\abcinput{abc/all-the-way-back-to-galway}
+\clearpage
+
+\subsection{I Want To Be Near You}
+\abcinput{abc/4-times-in-d}
+\abcinput{abc/2-times-in-g-whistle-stops}
+\abcinput{abc/final-time-in-a}
+\clearpage
+
+\subsection{Bridge Of Athlone}
+\abcinput{abc/coppers-and-brass}
+\abcinput{abc/dusty-windowsills}
+\abcinput{abc/banish-misfortune}
+\abcinput{abc/back-to-coppers-and-brass}
+\clearpage
+
+\subsection{Cumberland}
+\abcinput{abc/the-centenary}
+\abcinput{abc/lark-in-the-morning}
+\clearpage
+
+\subsection{Strip The Willow}
+\abcinput{abc/drops-of-brandy}
+\abcinput{abc/the-foxhunter}
+\abcinput{abc/the-rocky-road-to-dublin}
+\clearpage
+
+\subsection{Moontube Station}
+\abcinput{abc/the-mooncoin-jig}
+\abcinput{abc/seanamhac-tube-station}
+\clearpage
+
+\subsection{Blaydon Hinny}
+\abcinput{abc/blaydon-races-in-c}
+\abcinput{abc/blaydon-races-in-d}
+\abcinput{abc/keep-your-feet-still-geordie-hinny-in-g}
+\abcinput{abc/blaydon-races-in-g}
+\abcinput{abc/blaydon-races-in-d-again}
+\abcinput{abc/blaydon-races-in-a}
+\clearpage
+
+\subsection{Foxy Road}
+\abcinput{abc/the-road-to-ballymac-x2}
+\abcinput{abc/pachelbels-frolics-x2}
+\clearpage
+
+\subsection{Quebec}
+\abcinput{abc/the-quebec-donkey}
+\abcinput{abc/dennis-murphys}
+\abcinput{abc/john-ryans}
+\clearpage
+
+\subsection{Ciel d'Automne}
+\abcinput{abc/ciel-dautomne}
+\clearpage
+
+\subsection{Play Out}
+\abcinput{abc/moll-roe}
+\abcinput{abc/farewell-to-whalley-range}
+\abcinput{abc/last-time}
+\clearpage
+
+\section{Liz}
+
+% subsection here maps to set in the app
+\subsection{Intro (Liz)}
+% text here turns into notes on the whole set
+\abcinput{abc/the-kesh-jig-top-horns-liz}
+\abcinput{abc/chords-intro-top-horns-liz}
+\abcinput{abc/a-part-top-horns-liz}
+\clearpage
+
+\subsection{Virginia Reel (Liz)}
+\abcinput{abc/oh-susanna-top-horns-liz}
+\abcinput{abc/brighton-camp-top-horns-liz}
+\abcinput{abc/the-rose-tree-top-horns-liz}
+\abcinput{abc/back-to-oh-susanna-top-horns-liz}
+\clearpage
+
+\subsection{Quakers Wife (Liz)}
+\abcinput{abc/the-quakers-wife-top-horns-liz}
+\abcinput{abc/the-old-favourite-top-horns-liz}
+\abcinput{abc/garrett-barrys-top-horns-liz}
+\abcinput{abc/lisnagun-top-horns-liz}
+\abcinput{abc/back-to-the-quakers-wife-top-horns-liz}
+\clearpage
+
+\subsection{All The Way To Galway (Liz)}
+\abcinput{abc/all-the-way-to-galway-top-horns-liz}
+\abcinput{abc/tralee-gaol-top-horns-liz}
+\abcinput{abc/egans-top-horns-liz}
+\abcinput{abc/all-the-way-back-to-galway-top-horns-liz}
+\clearpage
+
+\subsection{I Want To Be Near You (Liz)}
+\abcinput{abc/4-times-in-d-top-horns-liz}
+\abcinput{abc/2-times-in-g-whistle-stops-top-horns-liz}
+\abcinput{abc/final-time-in-a-top-horns-liz}
+\clearpage
+
+\subsection{Bridge Of Athlone (Liz)}
+\abcinput{abc/coppers-and-brass-top-horns-liz}
+\abcinput{abc/dusty-windowsills-top-horns-liz}
+\abcinput{abc/banish-misfortune-top-horns-liz}
+\abcinput{abc/back-to-coppers-and-brass-top-horns-liz}
+\clearpage
+
+\subsection{Circassian (Liz)}
+\abcinput{abc/the-centenary-march-tenor-saxophone-1}
+\abcinput{abc/lark-in-the-morning-top-horns-liz}
+\clearpage
+
+\subsection{Quebec (Liz)}
+\abcinput{abc/the-quebec-donkey-tenor-saxophone}
+\abcinput{abc/dennis-murphys-tenor-saxophone}
+\abcinput{abc/john-ryans-tenor-saxophone}
+\clearpage
+
+\subsection{Play Out (Liz)}
+\abcinput{abc/moll-roe-top-horns-liz}
+\abcinput{abc/farewell-to-whalley-range-top-horns-liz}
+\abcinput{abc/last-time-top-horns-liz}
+\clearpage
+
+\section{Robin}
+
+% subsection here maps to set in the app
+\subsection{Intro (Robin)}
+% text here turns into notes on the whole set
+\abcinput{abc/the-kesh-jig-top-horns-robin}
+\abcinput{abc/chords-intro-top-horns-robin}
+\abcinput{abc/a-part-top-horns-robin}
+\clearpage
+
+\subsection{Virginia Reel (Robin)}
+\abcinput{abc/oh-susanna-top-horns-robin}
+\abcinput{abc/brighton-camp-top-horns-robin}
+\abcinput{abc/the-rose-tree-top-horns-robin}
+\abcinput{abc/back-to-oh-susanna-top-horns-robin}
+\clearpage
+
+\subsection{Quakers Wife (Robin)}
+\abcinput{abc/the-quakers-wife-top-horns-robin}
+\abcinput{abc/the-old-favourite-top-horns-robin}
+\abcinput{abc/garrett-barrys-top-horns-robin}
+\abcinput{abc/lisnagun-top-horns-robin}
+\abcinput{abc/back-to-the-quakers-wife-top-horns-robin}
+\clearpage
+
+\subsection{All The Way To Galway (Robin)}
+\abcinput{abc/all-the-way-to-galway-top-horns-robin}
+\abcinput{abc/tralee-gaol-top-horns-robin}
+\abcinput{abc/egans-top-horns-robin}
+\abcinput{abc/all-the-way-back-to-galway-top-horns-robin}
+\clearpage
+
+\subsection{I Want To Be Near You (Robin)}
+\abcinput{abc/4-times-in-d-top-horns-robin}
+\abcinput{abc/2-times-in-g-whistle-stops-top-horns-robin}
+\abcinput{abc/final-time-in-a-top-horns-robin}
+\clearpage
+
+\subsection{Bridge Of Athlone (Robin)}
+\abcinput{abc/coppers-and-brass-top-horns-robin}
+\abcinput{abc/dusty-windowsills-top-horns-robin}
+\abcinput{abc/banish-misfortune-top-horns-robin}
+\abcinput{abc/back-to-coppers-and-brass-top-horns-robin}
+\clearpage
+
+\subsection{Circassian (Robin)}
+\abcinput{abc/the-centenary-march-soprano-saxophone}
+\abcinput{abc/lark-in-the-morning-top-horns-robin}
+\clearpage
+
+\subsection{Quebec (Robin)}
+\abcinput{abc/the-quebec-donkey-baritone-saxophone}
+\abcinput{abc/dennis-murphys-baritone-saxophone}
+\abcinput{abc/john-ryans-baritone-saxophone}
+\clearpage
+
+\subsection{Play Out (Robin)}
+\abcinput{abc/moll-roe-top-horns-robin}
+\abcinput{abc/farewell-to-whalley-range-top-horns-robin}
+\abcinput{abc/last-time-top-horns-robin}
+\clearpage
