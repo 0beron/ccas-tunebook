@@ -10,6 +10,7 @@ instruments = ['top-horns',
                'tenor-saxophone',
                'tenor-saxophone-1',
                'tenor-saxophone-2',
+               'baritone-saxophone',
                'trumpet-in-bb',
                'trombone',
                'tuba',
@@ -18,6 +19,7 @@ instruments = ['top-horns',
                'top-horns-robin']
 
 def write_template(output, templ):
+    allabcs = os.listdir("abc")
     abcs = {}
     for abc in os.listdir("abc"):
         for inst in instruments:
@@ -59,9 +61,8 @@ def write_template(output, templ):
                 for t in settns:
                     output.write(t)
                 output.write("\\clearpage\n\n")
-
+    print(allabcs)
                 
-allabcs = os.listdir("abc")
 
 seentempl = False
 seenliz = False
