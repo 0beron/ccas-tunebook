@@ -3,11 +3,12 @@ T:BLAYDON RACES in D again
 L:1/8
 Q:3/8=120
 M:6/8
-K:D
-"D"D D,2 z A,,2 z |"D"D D,2 A,, D,,E,,F,, |"A7"A7 A,,2 z E,2 z |"D"D D,2 E, F,E,D, |"G"G G,,2 z B,,2 z |
-"D"D D,2 z F,2 z |"E7"E7 E,2 z ^G,2 z |"A7"A7 A,A,,B,, C,B,,A,, |"D"D D,2 z A,,2 z |"D"D D,2 A,, D,,E,,F,, |
-"A7"A7 A,,2 z E,2 z |"D"D D,2 E, F,E,D, |"G"G G,,2 z B,,2 z |"D"D D,2 z F,2 G, |"A7"A7 A,2 A,, A,,B,,C, |
-"D"D D,2 z A,,2 z |"D"D D,2 z A,2 z |"D"D D,2 A,, D,E,F, |"A7"A7 A,2 z E,2 z |"D"D D,D,,E,, F,,E,,D,, |
-"G"G G,,2 z E,,2 z |"D"D D,,2 z F,,2 z |"E7"E7 E,,2 z ^G,,2 z |"A7"A7 A,,A,,B,, C,B,,A,, |"D"D D,2 z A,,2 z |
-"D"D D,2 A,, D,,E,,F,, |"A7"A7 A,,2 z E,2 z |"D"D D,2 E, F,E,D, |"G"G G,2 z E,2 z |
-"D"D D,2 z F,2 G, |"A7"A7 A,2 A,, A,,B,,C, |"D"D D,2 z A,,B,,C, :|"D"D D,2 z !wedge!D,,2 z |
+K:Dmaj
+"D" D2 z A,2 z |"D" D2 A, D,E,F, |"A7" A,2 z E2 z |"D" D2 E FED |"G" G,2 z B,2 z |
+"D" D2 z F2 z |"E7" E2 z ^G2 z |"A7" AA,B, CB,A, |"D" D2 z A,2 z |"D" D2 A, D,E,F, |
+"A7" A,2 z E2 z |"D" D2 E FED |"G" G,2 z B,2 z |"D" D2 z F2 G |"A7" A2 A, A,B,C |
+"D" D2 z A,2 z |"D" D2 z A2 z |"D" D2 A, DEF |"A7" A2 z E2 z |"D" DD,E, F,E,D, |
+"G" G,2 z E,2 z |"D" D,2 z F,2 z |"E7" E,2 z ^G,2 z |"A7" A,A,B, CB,A, |"D" D2 z A,2 z |
+"D" D2 A, D,E,F, |"A7" A,2 z E2 z |"D" D2 E FED |"G" G2 z E2 z |
+"D" D2 z F2 G |"A7" A2 A, A,B,C |"D" D2 z A,B,C :|"D" D2 z !wedge!D,2 z |
+

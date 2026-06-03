@@ -3,13 +3,14 @@ T:KEEP YOUR FEET STILL, GEORDIE HINNY in G
 L:1/8
 Q:3/8=120
 M:6/8
-K:G
-"G" z2 AA z2 AA | z2 AA z2 AA |"C" z2 AA z2 AA | z2 AA z2 AA |
-"G" z2 AA z2 AA |z2 AA z2 AA |"D7" B2 A2 G2 F2 | G2 =d2 B2 B2 |"G" z2 AA z2 AA |
- z2 AA z2 AA |"C" z2 AA z2 AA |z2 AA z2 AA |"G" z2 AA z2 AA |
-"D7" z2 BB z2 BB |"G" A2 c2 ^B2 =B2 | A2 z2 z4 ||"C" d2 c2 d2 c2 | d2 z2 z4 |
-"G"c2 ^B2 c2 B2 |"G" c2 z2 z4 |"G" z2 ee z2 ee |"G" z2 e2 z2 c2 |"D7" d2 d2 e2 d2 |
- c2 B2 A2 G2 |"G" z2 AA z2 AA |"G"z2 AA z2 AA |"C" z2 AA z2 AA |
-"C7" z2 AA z2 AA |
-"G" z2 AA z2 AA |1"D7" z2 BB z2 BB |"G" A2 c2 ^B2 =B2 |
-"G"A2 z2 z4 :|2"G" A2 c2 ^B2 =B2 |"G" A2 z"G7" z3 ||
+K:Gmaj
+"G"z2 GG z2 GG | z2 GG z2 GG |"C" z2 GG z2 GG | z2 GG z2 GG |
+"G"z2 GG z2 GG |z2 GG z2 GG |"D7" A2 G2 F2 E2 | F2 =c2 A2 A2 |"G" z2 GG z2 GG |
+z2 GG z2 GG |"C" z2 GG z2 GG |z2 GG z2 GG |"G" z2 GG z2 GG |
+"D7"z2 AA z2 AA |"G" G2 B2 ^A2 =A2 | G2 z2 z4 ||"C" c2 B2 c2 B2 | c2 z2 z4 |
+"G"B2 ^A2 B2 A2 |"G" B2 z2 z4 |"G" z2 dd z2 dd |"G" z2 d2 z2 B2 |"D7" c2 c2 d2 c2 |
+B2 A2 G2 F2 |"G" z2 GG z2 GG |"G"z2 GG z2 GG |"C" z2 GG z2 GG |
+"C7"z2 GG z2 GG |
+"G"z2 GG z2 GG |1"D7" z2 AA z2 AA |"G" G2 B2 ^A2 =A2 |
+"G"G2 z2 z4 :|2"G" G2 B2 ^A2 =A2 |"G" G2 z"G7" z3 ||
+

@@ -3,12 +3,13 @@ T:BLAYDON RACES in C
 L:1/8
 Q:3/8=120
 M:6/8
-K:D
-"C"D D2 D D2 D |"C"D D2 D D2 D |"G7"A7 E2 E E2 E |"C"D F3 D3 |
-"F"G G2 G G2 G |"C"D F2 F F2 F |"D7"E7 E2 F E2 D |"G7"A7 C3 A3 |
-"C"D D2 D D2 D |"C"D D2 D D2 D |"G7"A7 E2 E E2 E |"C"D F3 D3 |
-"F"G G2 G G2 G |"C"D F2 G A2 B |"G7"A7 A2 G F2 E |"C"D D2 E F2 G ||
-"C"D A3- A2 F |"C"D D3- D2 F |"G7"A7 E2 E EDE |"C"D F3 D2 F |
-"F"G G2 G G2 G |"C"D F2 F F2 F |"D7"E7 E2 F E2 D |"G7"A7 C3 A3 |
-"C"D D2 D D2 D |"C"D D2 D D2 D |"G7"A7 E2 E E2 E |"C"D F3 D3 |
-"F"G G2 G G2 G |"C"D F2 G A2 B |"G7"A7 A2 G F2 E |1"C"D D3 z3 :|2"C"D D3 z3 ||
+K:Cmaj
+"C" C2 C C2 C |"C" C2 C C2 C |"G7" D2 D D2 D |"C" E3 C3 |
+"F" F2 F F2 F |"C" E2 E E2 E |"D7" D2 E D2 C |"G7" B,3 G3 |
+"C" C2 C C2 C |"C" C2 C C2 C |"G7" D2 D D2 D |"C" E3 C3 |
+"F" F2 F F2 F |"C" E2 F G2 A |"G7" G2 F E2 D |"C" C2 D E2 F ||
+"C" G3- G2 E |"C" C3- C2 E |"G7" D2 D DCD |"C" E3 C2 E |
+"F" F2 F F2 F |"C" E2 E E2 E |"D7" D2 E D2 C |"G7" B,3 G3 |
+"C" C2 C C2 C |"C" C2 C C2 C |"G7" D2 D D2 D |"C" E3 C3 |
+"F" F2 F F2 F |"C" E2 F G2 A |"G7" G2 F E2 D |1"C" C3 z3 :|2"C" C3 z3 |:
+

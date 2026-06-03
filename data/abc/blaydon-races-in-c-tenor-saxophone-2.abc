@@ -3,12 +3,13 @@ T:BLAYDON RACES in C
 L:1/8
 Q:3/8=120
 M:6/8
-K:D
-"C" A2 F A2 G |"C" F2 F FGA |"G7" A2 A A2 A |"C" A2 G AGF |
-"F" B2 B BGA |"C" A2 A A2 d |"D7" ^G2 B G2 G |"G7"e2 d c2 A |
-"C" A2 F A2 G |"C" F2 F FGA |"G7" A2 A A2 A |"C" A2 G AGF |
-"F" B2 B BGA |"C" A2 B d2 d |"G7" c2 A A2 A |"C"A3 z2 z ||
-"C" d2 A FGA |"C" A2 A FGA |"G7" A2 A A2 A |"C" A2 F Acd |
-"F" B2 B BGA |"C" AFE DEF |"D7" ^G2 B G2 E |"G7"E3 E3 |
-"C" A2 F A2 G |"C" F2 F FGA |"G7" A2 A A2 A |"C" A2 G AGF |
-"F" B2 B BGA |"C" A2 B d2 d |"G7" c2 A A2 A |1"C"F3 z3 :|2"C" F3 z3 ||
+K:Cmaj
+"C"G2 E G2 F |"C" E2 E EFG |"G7" G2 G G2 G |"C" G2 F GFE |
+"F"A2 A AFG |"C" G2 G G2 c |"D7" ^F2 A F2 F |"G7"d2 c B2 G |
+"C"G2 E G2 F |"C" E2 E EFG |"G7" G2 G G2 G |"C" G2 F GFE |
+"F"A2 A AFG |"C" G2 A c2 c |"G7" B2 G G2 G |"C"G3 z2 z ||
+"C"c2 G EFG |"C" G2 G EFG |"G7" G2 G G2 G |"C" G2 E GBc |
+"F"A2 A AFG |"C" GED CDE |"D7" ^F2 A F2 D |"G7"D3 D3 |
+"C"G2 E G2 F |"C" E2 E EFG |"G7" G2 G G2 G |"C" G2 F GFE |
+"F"A2 A AFG |"C" G2 A c2 c |"G7" B2 G G2 G |1"C"E3 z3 :|2"C" E3 z3 |:
+

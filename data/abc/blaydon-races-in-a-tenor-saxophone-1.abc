@@ -3,11 +3,12 @@ T:BLAYDON RACES in A
 L:1/8
 Q:3/8=120
 M:6/8
-K:A
-"A" B2 B A2 G |"A" F2 F FGA |"E7" A2 A AGA |"A" B3 BGF |"D"B2 B BGA |
-"A" B2 B B2 B |"B7" G2 B G2 G |"E7" F2 =E D2 C |"A" B2 B A2 G |"A" F2 F FGA |
-"E7" A2 A AGA |"A" B3 BGF |"D"B2 B BGA |"A" B2 c d2 e |"E7" d2 c B2 A |
-"A" B2 B B2 c |"A" d2 B FGB |"A" d2 B FGB |"E7" A2 A AGA |"A" B2 F DEF |
-"D"B2 B BGA |"A" BFE DEF |"B7" G2 B G2 F |"E7" F2 G AGF |"A" B2 B A2 G |
- F2 F FGA |"E7" A2 A AGA |"A" B3 BGF |"D"B2 B BGA |
-"A" B2 c d2 e |"E7" d2 c B2 A |1"A" F3 z3 :|2"A" F3 BA=A ||
+K:Amaj
+"A"A2 A G2 F |"A" E2 E EFG |"E7" G2 G GFG |"A" A3 AFE |"D"A2 A AFG |
+"A"A2 A A2 A |"B7" F2 A F2 F |"E7" E2 =D C2 B, |"A" A2 A G2 F |"A" E2 E EFG |
+"E7"G2 G GFG |"A" A3 AFE |"D"A2 A AFG |"A" A2 B c2 d |"E7" c2 B A2 G |
+"A"A2 A A2 B |"A" c2 A EFA |"A" c2 A EFA |"E7" G2 G GFG |"A" A2 E CDE |
+"D"A2 A AFG |"A" AED CDE |"B7" F2 A F2 E |"E7" E2 F GFE |"A" A2 A G2 F |
+E2 E EFG |"E7" G2 G GFG |"A" A3 AFE |"D"A2 A AFG |
+"A"A2 B c2 d |"E7" c2 B A2 G |1"A" E3 z3 :|2"A" E3 AG=G |:
+

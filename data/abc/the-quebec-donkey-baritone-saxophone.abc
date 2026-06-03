@@ -3,12 +3,13 @@ T:The Quebec Donkey
 L:1/8
 Q:1/4=110
 M:2/4
-K:E
+K:Gmaj
 |: z4 | z4 | z4 | z4 |
- z4 | z4 | z4 | z4 ::
-"C" A>B c z |"C" z3 E |"Am" F z/ F/ z2 |"Am" F z/ F/ z2 |
-"C"A>c e z |"C" z3 B |"G" E2"D" D2 |"Em" C2 C2 ::
-"G" z4 |"G" z3 d |"C" AB B z |"D" cB B z |
-"G" z4 |"G" z3 d |"C" A2"D" G2 |"Em" C3 z ::
-"C"A z"G/B" B z |"Am7" e z"Em/G" c z |"Am7" e z/ e/ z2 |"Bm7" f z/ f/ z2 |
-"C" A z"G7/B" B z |"Am7" e z"G" c z |"Cmaj7" c z"Bm7" B z |"Em" c2 c2 :|
+z4 | z4 | z4 | z4 ::
+"C"c>d e z |"C" z3 G |"Am" A z/ A/ z2 |"Am" A z/ A/ z2 |
+"C"c>e g z |"C" z3 d |"G" G2"D" F2 |"Em" E2 E2 ::
+"G"z4 |"G" z3 f |"C" cd d z |"D" ed d z |
+"G"z4 |"G" z3 f |"C" c2"D" B2 |"Em" E3 z ::
+"C"c z"G/B" d z |"Am7" g z"Em/G" e z |"Am7" g z/ g/ z2 |"Bm7" a z/ a/ z2 |
+"C"c z"G7/B" d z |"Am7" g z"G" e z |"Cmaj7" e z"Bm7" d z |"Em" e2 e2 ::
+

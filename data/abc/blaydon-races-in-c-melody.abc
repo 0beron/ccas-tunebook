@@ -3,7 +3,7 @@ T:BLAYDON RACES in C
 L:1/8
 Q:3/8=120
 M:6/8
-K:D
+K:C
 "C""^BLAYDON RACES in C" C2 C C2 C |"C" C2 C C2 C |"G7" D2 D D2 D |"C" E3 C3 |
 "F" F2 F F2 F |"C" E2 E E2 E |"D7" D2 E D2 C |"G7" B,3 G,3 |
 "C" C2 C C3 |"C" C2 C C3 |"G7" D2 D D2 D |"C" E3 C3 |
@@ -11,4 +11,5 @@ K:D
 "C" G3- G2 E |"C" C3- C2 E |"G7" D2 D DCD |"C" E3 C2 E |
 "F" F2 F F2 F |"C" E2 E E2 E |"D7" D2 E D2 C |"G7" B,3 G,3 |
 "C" C2 C C2 C |"C" C2 C C2 C |"G7" D2 D D2 D |"C" E3 C3 |
-"F" F2 F F2 F |"C" E2 F G2 A |"G7" G2 F E2 D |1"C" C3 z2 z :|2"C" C3 z2 z ||
+"F" F2 F F2 F |"C" E2 F G2 A |"G7" G2 F E2 D |1"C" C3 z2 z :|2"C" C3 z2 z |:
+

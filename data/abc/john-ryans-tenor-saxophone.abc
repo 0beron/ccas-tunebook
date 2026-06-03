@@ -3,18 +3,19 @@ T:John Ryan's
 L:1/8
 Q:1/4=110
 M:2/4
-K:D
- z4 | z4 | ee c/d/e/c/ | BG FE |
-z4 | z2 z c/d/ | ec dA | B2 B2 ||
- z4 | z4 | ee c/d/e/c/ | BB AG |
- z4 | z2 z c/d/ | ec dA |B2 B2 |:
-"D" z .e z .e |"G" z .e"A7" z .d |"D" z .e z .e |"A7" z .d f2 |
-"D" z .e z .e |"G" z .e"A" z .d |"D" ee"A7" fd |1"D" e2 e2 :|2"D"e2 e2 |:
- !>!e/ z/ !>!e/ z/ z z | z4 | !>!e/ z/ !>!e/ z/ z z | z4 |
- !>!e/ z/ !>!e/ z/ z z | z4 |"D"f z"A7" d z |1"D" e2 e2 :|2"D" e3"A7" z |:
-"D" z .e z .e |"G" z .e"A7" z .d |"D" z .e z .e | z .e"A7" f2 |
-"D" z .e z .e |"G" z .e"A7" z .d |"D"eg"A7" fd |1"D" Bc B2 :|2"D" Bc B2 |:
- !>!e/ z/ !>!e/ z/"G" z !>!e |"D" z !>!e/ z/ z B |!>!e/ z/ !>!e/ z/"G" z !>!e/ z/ |"A" z d"D" z e |
- !>!e/ z/ !>!e/ z/"G" z !>!e/ z/ |"D" z !>!e/ z/ z B |"D"f z"A7" d z |1"D" e2 e2 :|2"D" e2 e"A7" z |:
-"D" z .e z .e |"G" z .e"A7" z .d |"D" z .e z .e |"A7" z .d f2 |
-"D" z .e z .e |"G"z .e"A7" z .d |"D" ee"A7" fd |1"D" e2 e2 :|2"D" e2 e2 |
+K:Dmaj
+z4 | z4 | dd B/c/d/B/ | AF ED |
+z4 | z2 z B/c/ | dB cG | A2 A2 ||
+z4 | z4 | dd B/c/d/B/ | AA GF |
+z4 | z2 z B/c/ | dB cG |A2 A2 |:
+"D"z .d z .d |"G" z .d"A7" z .c |"D" z .d z .d |"A7" z .c e2 |
+"D"z .d z .d |"G" z .d"A" z .c |"D" dd"A7" ec |1"D" d2 d2 :|2"D"d2 d2 |:
+!>!d/ z/ !>!d/ z/ z z | z4 | !>!d/ z/ !>!d/ z/ z z | z4 |
+!>!d/ z/ !>!d/ z/ z z | z4 |"D"e z"A7" c z |1"D" d2 d2 :|2"D" d3"A7" z |:
+"D"z .d z .d |"G" z .d"A7" z .c |"D" z .d z .d | z .d"A7" e2 |
+"D"z .d z .d |"G" z .d"A7" z .c |"D"df"A7" ec |1"D" AB A2 :|2"D" AB A2 |:
+!>!d/ z/ !>!d/ z/"G" z !>!d |"D" z !>!d/ z/ z A |!>!d/ z/ !>!d/ z/"G" z !>!d/ z/ |"A" z c"D" z d |
+!>!d/ z/ !>!d/ z/"G" z !>!d/ z/ |"D" z !>!d/ z/ z A |"D"e z"A7" c z |1"D" d2 d2 :|2"D" d2 d"A7" z |:
+"D"z .d z .d |"G" z .d"A7" z .c |"D" z .d z .d |"A7" z .c e2 |
+"D"z .d z .d |"G"z .d"A7" z .c |"D" dd"A7" ec |1"D" d2 d2 :|2"D" d2 d2 |
+

@@ -3,10 +3,11 @@ T:The Rocky Road To Dublin
 L:1/8
 Q:1/4=180
 M:9/8
-K:C
-"Am"A A,,3 z3 G,,2 ^G,, |"Am"A A,,3 z3"G"G z3 |"Am"A A,,3 z3 D,3 |"G"G G,,3 z3"D"D z3 ::
-"Am"A .A,, z .A,, z .A,,"G" zG z3 |"Am"A .A,, z .A,, z .A,,"G" zG D,2 z |1
-"D"D .D, z .D, z .D, z .D, z2 |"Em"E .G,, z .G,, z"G" .G,,G z z3 :|2
-"D"D .D, z .D, z .D, z .D, z2 |"Em"E .G,, z .G,, z"G" .G,,G z z3 |:
-"Am"A .A,, z2 .A,, z2"G"G (G,,2 ^G,, |"Am"A .A,,3) z3"D"D z3 |1"Am"A A,, z2 A,, z2 (A,,2 ^G,, |"G"G .G,,3) z3 z3 :|2
-"G"G G,,6 z3 |"D"D D,6 z3 |"Am"A A,,3"G"G G,,3"Am"A A,,3- | A,,6 z3 |
+K:Cmaj
+"Am" A,3 z3 G,2 ^G, |"Am" A,3 z3"G" z3 |"Am" A,3 z3 D3 |"G" G,3 z3"D" z3 ::
+"Am" .A, z .A, z .A, z"G" z3 |"Am" .A, z .A, z .A, z"G" D2 z |1
+"D" .D z .D z .D z .D z2 |"Em" .G, z .G, z .G,"G" z z3 :|2
+"D" .D z .D z .D z .D z2 |"Em" .G, z .G, z .G,"G" z z3 |:
+"Am" .A, z2 .A, z2"G" (G,2 ^G, |"Am" .A,3) z3"D" z3 |1"Am" A, z2 A, z2 (A,2 ^G, |"G" .G,3) z3 z3 :|2
+"G" G,6 z3 |"D" D6 z3 |"Am" A,3"G" G,3"Am" A,3- | A,6 z3 |
+

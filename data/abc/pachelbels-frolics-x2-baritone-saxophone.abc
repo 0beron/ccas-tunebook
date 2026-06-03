@@ -3,9 +3,9 @@ T:Pachelbel's Frolics x2
 L:1/8
 Q:1/4=180
 M:4/4
-K:D
-"D" z2 D,2- D,2 .D,2 |"A"z2 A,,2- A,,2 .A,,2 |"Bm" z2 B,,2- B,,2 .B,,2 |"F#m" z2 F,,2- F,,2 .F,,2 |
-"G" z2 G,,2- G,,2 .G,,2 |"D"z2 D,,2- D,,2 .D,,2 |"G" z4 G,,2 F,,2 |1"A7" .E,2 z2"A" C,4 :|2
-"A" .E,2 z2"D" A,,4 |:"D" z2 F,2 z2 F,2 |"A"z2 E,2 z2 E,2 |"Bm" z2 D,2 z2 D,2 |
-"F#m" z2 C,2 z2 C,2 |"G" z2 D,2 z2 D,2 |"D" z2 D,2 z2 D,2 |"G" z2 D,2 z2 D,2 |1
-"A7"z2 E,2"A" z2 E,2 :|2"A" z2 E,2"D" F,4 ||"A" z2 .E,2 z4 |"D" !fermata!F,8 |
+K:Dmaj
+"D"z2 d2- d2 .d2 |"A"z2 A2- A2 .A2 |"Bm" z2 B2- B2 .B2 |"F#m" z2 F2- F2 .F2 |
+"G"z2 G2- G2 .G2 |"D" z2 D2- D2 .D2 |"G" z4 G2 F2 |1"A7".e2 z2"A" c4 :|2
+"A".e2 z2"D" A4 |:"D" z2 f2 z2 f2 |"A" z2 e2 z2 e2 |"Bm" z2 d2 z2 d2 |
+"F#m"z2 c2 z2 c2 |"G"z2 d2 z2 d2 |"D" z2 d2 z2 d2 |"G" z2 d2 z2 d2 |1
+

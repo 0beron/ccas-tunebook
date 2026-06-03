@@ -4,17 +4,18 @@ L:1/8
 Q:1/4=110
 M:2/4
 K:D
-  | |  |  |
-  |  |  |  ||
-  |  |  |  |
-  |  |  |  |:
-"D"  |"G"  |"D"  |"A7" |
-"D"  |"G"  |"D"  |1"D"  :|2"D"  |:
-  |  |  |  |
-  |  |"D"  |1"D"  :|2"D"  |:
-"D" dA Ac/d/ |"G"ed"A7" cB/c/ |"D" dA FA | dc/d/"A7" ec |
-"D" dA Ac/d/ |"G" ed"A7" cB/c/ |"D" dA"A7" AG |1"D" F2 F2 :|2"D" F2 F2 |:
-  |"D"  |  |"A" |
-  |"D"  |"D"  |1"D"  :|2"D"  |:
-"D" dA Ac/d/ |"G" ed"A7" cB/c/ |"D" dA FA |"A7" dc/d/ ec |
-"D" dA Ac/d/ |"G"ed"A7" cB/c/ |"D" dA"A7" AG |1"D" A2 A2 :|2"D" A2 A2 |
+x4 |x4 | x4 | x4 |
+x4 | x4 | x4 | x4 ||
+x4 | x4 | x4 | x4 |
+x4 | x4 | x4 | x4 |:
+x4 | x4 | x4 |x4 |
+x4 | x4 | x4 |1 x4 :|2 x4 |:
+x4 | x4 | x4 | x4 |
+x4 | x4 | x4 |1 x4 :|2 x4 |:
+dA Ac/2d/2 |ed cB/2c/2 | dA FA | dc/2d/2 ec |
+dA Ac/2d/2 | ed cB/2c/2 | dA AG |1 F2 F2 :|2 F2 F2 |:
+x4 | x4 | x4 |x4 |
+x4 | x4 | x4 |1 x4 :|2 x4 |:
+dA Ac/2d/2 | ed cB/2c/2 | dA FA | dc/2d/2 ec |
+dA Ac/2d/2 |ed cB/2c/2 | dA AG |1 A2 A2 :|2 A2 A2 |]
+

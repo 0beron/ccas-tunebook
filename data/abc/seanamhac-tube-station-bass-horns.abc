@@ -3,11 +3,12 @@ T:Seanamhac Tube Station
 L:1/8
 Q:1/4=160
 M:6/8
-K:F
-"Gsus2"G G,,2 z z2 z |"Dm7"D D,,2 z z2 z |"Bbmaj7"Bba B,,2 z z2 z |"Csus2"C C,,2 z z2 z |
-"Gsus2"G G,,2 z z2 z |"Dm7"D D,,2 z z2 z |"Bbmaj7"Bba B,,2 z z2 z |1"Csus2"C C,2 z z2 z :|2"C"C z6 |:
-"Bb"Bb B,,3 B,,A,,G,, |"F"F F,,3 F,,G,,A,, |"Bb"Bb B,,2"F" zF F,,2 z |"C"C C,,2 z z2 z |1
-"Bb"Bb B,,3 B,,A,,G,, |"F"F F,,3 F,,G,,A,, |"Bb"Bb B,,2"F" zF F,,2 z |"C"C G,,2 z z2 z :|2
-"Gm"G!<(! G,,6 |"Gm"G G,,6 |"Dm"D D,6!<)! |"F"F F,,6 |:
-"Gm"G G,,3 G,,3 |"F"F D,,3 z2 z |"C"C z6 |"D"D z6 |
-"Gm"G G,, z G,, z2 z |"F"F A,, z A,, z2 z |"Bb"Bb B,,3"F"F C,3 |"Gm"G G,,6 :|
+K:Fmaj
+"Gsus2" G,2 z z2 z |"Dm7" D,2 z z2 z |"Bbmaj7" B,2 z z2 z |"Csus2" C,2 z z2 z |
+"Gsus2" G,2 z z2 z |"Dm7" D,2 z z2 z |"Bbmaj7" B,2 z z2 z |1"Csus2" C2 z z2 z :|2"C" z6 |:
+"Bb" B,3 B,A,G, |"F" F,3 F,G,A, |"Bb" B,2 z"F" F,2 z |"C" C,2 z z2 z |1
+"Bb" B,3 B,A,G, |"F" F,3 F,G,A, |"Bb" B,2 z"F" F,2 z |"C" G,2 z z2 z :|2
+"Gm"!<(! G,6 |"Gm" G,6 |"Dm" D6!<)! |"F" F,6 |:
+"Gm" G,3 G,3 |"F" D,3 z2 z |"C" z6 |"D" z6 |
+"Gm" G, z G, z2 z |"F" A, z A, z2 z |"Bb" B,3"F" C3 |"Gm" G,6 :|
+

@@ -3,12 +3,13 @@ T:Dennis Murphy's
 L:1/8
 Q:1/4=110
 M:2/4
-K:D
-"D"D D, z A,, z |"D"D D, z A,, z |"Em"E E,, z G,, z |"A7"A7 A,, z B,,C, |"D"D D, z A,, z |
-"D"D D, z F,, z |"Em"E E,,"A7" zA7 A,, z |1"D"D C,"D" zD D, z :|2"A7"A7"D" C, zD D, z |:
-"D"D D, z A,, z |"G"G G,, z G,, z |"D"D D, z A,, z |"G"G G,,"A7"B,,A7 A,,C, |
-"D"D D, z A,, z |"G"G G,, z z D, |"A"A .G,, z/ !>!A,,/- A,,C, |1"D"D .D,.A,,"C#7b9" .B,,Cb9!>!C, :|2"D"D"Bdim7" D,"D"BdB,,D D, z |:
-"D"D D, z A,, z |"D"D D, z A,, z |"C"C =C, z C,B,, |"A"A A,,^C, E,A,, |
-"D"D D, z A,, z |"D"D D, z A,, z |"C"C =C,"A7" zA7 A,, z |1"A"A C,"D"A,,D D, z :|2"A"A C,"D"A,,D D, z |:
-"D"D D, z/ D,/- D,/ z/ C, |"C"C =C, z z2 |"D"D D, z/ G,,/- G,,/ z/ ^G,, |"G"G A,,"A7" zA7 C, z |
-"D"D D, z/ D,/- D,/ z/ C, |"C"C =C, z z z |"A7"A7 E, z/ E,/- E,/ z/ ^D, |1"D"D =D, z"C#7b9" zCb9 z :|2"D"D"Bdim7" D,"D"Bd zD z2 ||
+K:Dmaj
+"D" D z A, z |"D" D z A, z |"Em" E, z G, z |"A7" A, z B,C |"D" D z A, z |
+"D" D z F, z |"Em" E, z"A7" A, z |1"D" C z"D" D z :|2"A7" C z"D" D z |:
+"D" D z A, z |"G" G, z G, z |"D" D z A, z |"G" G,B,"A7" A,C |
+"D" D z A, z |"G" G, z z D |"A" .G, z/2 !>!A,/2- A,C |1"D" .D.A, .B,"C#7b9"!>!C :|2"D" D"Bdim7"B,"D" D z |:
+"D" D z A, z |"D" D z A, z |"C" =C z CB, |"A" A,^C EA, |
+"D" D z A, z |"D" D z A, z |"C" =C z"A7" A, z |1"A" CA,"D" D z :|2"A" CA,"D" D z |:
+"D" D z/2 D/2- D/2 z/2 C |"C" =C z z2 |"D" D z/2 G,/2- G,/2 z/2 ^G, |"G" A, z"A7" C z |
+"D" D z/2 D/2- D/2 z/2 C |"C" =C z z z |"A7" E z/2 E/2- E/2 z/2 ^D |1"D" =D z z"C#7b9" z :|2"D" D"Bdim7" z"D" z2 |:
+
