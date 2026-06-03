@@ -1,0 +1,46 @@
+X:1
+T:The Quaker's Wife (The Gates Of Derry)
+%%score 1 2 3
+L:1/8
+Q:1/4=160
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Melody" snm="Mel"
+V:2 treble transpose=-12 nm="Top Horns" snm="Top H"
+V:3 bass nm="Bass Horns" snm="Bass H"
+L:1/8
+V:1
+|:"D""^The Quaker's Wife (The Gates of Derry)" def A2 f |"G" g2 f"A" e2 A |"D" def AFA | %3
+"G" B3"D" d2 A |$"D" def Adf |"G" agf"A" e2 A |"D" def AFA |"G" B3"D" d2 A ::$"D" d2 f a2 f | %9
+"G" b2 g a2 f |"Bm" def agf |"A" f3 a2 a |$"G" b2 g efg |"F#m" a2 f d2 A |"Em" def AFA | %15
+"A" B3"D" d2 A ::$[K:G]"G""^The Old Favourite" B3 BAB |"Em" d BA G2 B |"C" ded d2 B | %19
+"D" ded B2 A |$"G" B3 BAB |"Em" dBA G2 B |"C" ded"D" cBA |"G" G3 GBd ::$"G" g3 f3 |"Em" efe d2 B | %26
+"C" ded d2 B |"D" ded Bdf |$"G" g3 f3 |"Em" efe d2 B |1"C" dge"D" dBA |"G" G3 GBd :|2"C" dge dge | %33
+"D" dge dBA |]:$"D""^Garrett Barry's" DEF GFG |"Am" AGE c2 A |"C" dcA d2 e |"G" fed"C" cAG |$ %38
+"D" FEF GFG |"Am" AGE cde |"C" dcA"G" GEA |"D" DED D3 ::$"D" dcA d2 e |"Am" fed efe |"C" dcA c2 d | %45
+"G" egd ecA |$"D" dcA d2 e |"Am" fed efe |"C" dcA"G" GEA |"D" DED D3 ::$"G""^Lisnagun" GED G3 | %51
+"G" ABd B3 |"C" ABd BAG |"D" AGE GED |$"G" GED G3 |"G" ABd B3 |"C" ABd BAG |"D" AGE"G" G3 ::$ %58
+"G" d3 BAG |"Em" ABd B3 |"C" ABd BAG |"D" AGE GED |1$"G" d3 BAG |"Em" ABd B3 |"C" ABd BAG | %65
+"D" AGE"G" G3 :|2$"G" GED G3 |"G" ABd B3 |"C" ABd BAG |"D" AGE"G" G3 ||$ %70
+[K:D]"D""^Back to The Quaker's Wife" def A2 f |"G" g2 f"A" e2 A |"D" def AFA |"G" B3"D" d2 A |$ %74
+"D" def Adf |"G" agf"A" e2 A |"D" def AFA |"G" B3"D" d2 A |] %78
+L:1/8
+V:2
+|: z6 | z6 | z6 | z6 |$ z6 | z6 | z6 | z6 ::$ z6 | z6 | z6 | z6 |$ d2 B G z2 | c2 A F z2 | %14
+ B2 G E z2 | B3 d3 ::$[K:G] G z G z z G | E z E z z E | c z c z z c | d z d z z d |$ G z G z z G | %21
+ E z E z z E | c z c z z c | G z G z z G ::$!<(! g3 f3 | e3 d3 | c z c z z c | d z d z z d!<)! |$ %28
+ g3 f3 | e3 d3 | c z c z3 | G z G z3 :| c z c c z c | c z c c z c |]:$ z6 | z6 | z6 | z6 |$ z6 | %39
+ z6 | z6 | z6 ::$ F4 z2 | A4 z2 | E4 z2 | B4 z2 |$ F4 z2 | A4 z2 | E2 z B2 z | F4 z2 ::$ G z G4 | %51
+ F z F4 | E z E4 | D z D4 |$ G z G4 | F z F4 | E z E4 | D z2 G z2 ::$ z6 | z6 | z6 | z6 |$ z6 | %63
+ z6 | z6 | z6 :|$ G z D4 | A z d4 | A z d4 | A z z G z z ||$[K:D]!mp! d6 | B3 c3 | d3 F3 | G3 A3 |$ %74
+ d6 | d3 e3 | f3 d3 | e3 d3 |] %78
+L:1/8
+V:3
+|: z6 | z6 | z6 | z6 |$ z6 | z6 | z6 | z6 ::$ D,4 z2 | G,4 z2 | B,4 z2 | A,4 z2 |$ G,4 z2 | %13
+ F,4 z2 | E,4 z2 | A,,2 z D,2 z ::$[K:G] z6 | z6 | z6 | z6 |$ z6 | z6 | z6 | z6 ::$!<(! G,6 | E,6 | %26
+ C,6 | D,6!<)! |$ G,6 | E,6 | C,2 z D,2 z | G,,6 :| C,6 | D,6 |]:$ z6 | z6 | z6 | z6 |$ z6 | z6 | %40
+ z6 | z6 ::$ D,4 z2 | A,,4 z2 | C,4 z2 | G,,4 z2 |$ D,4 z2 | A,,4 z2 | C,2 z G,,2 z | D,4 z2 ::$ %50
+ z6 | z6 | z6 | z6 |$ z3 z2 z | z6 | z6 | z6 ::$ G,4 z2 | E,4 z2 | C,4 z2 | D,4 z2 |$ G,4 z2 | %63
+ E,4 z2 | C,4 z2 | D,2 z G,2 z :|$ G,4 z2 | F,4 z2 | E,4 z2 | D,2 z G,2 z ||$[K:D]!mp! D,6 | %71
+ G,3 A,3 | D,6 | G,3 A,,3 |$ D,6 | G,,3 A,,3 | D,6 | G,3 D,3 |] %78

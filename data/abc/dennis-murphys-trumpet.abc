@@ -5,11 +5,11 @@ Q:1/4=110
 M:2/4
 K:Dmaj
 "D"z .F z .F |"D" z .F (FD |"Em" E).E z .E |"A7" z .E z .G |"D" z .F z .F |
-"D"z .F (FD |"Em" E).E"A7" z .E |1"D"z (=F"D" .^F) z :|2"A7" z (=F"D" ^F2) |:
-"D"F z/2 !^!D/2- D/2 z/2 D |"G" z z/2 !^!D/2- D/2 z/2 D |"D" z z/2 !^!D/2- D/2 z/2 D |"G".D.D .E.E"A7" |
-"D"z z/2 !^!D/2- D/2 z/2 D |"G" D z z D |"A" D z/2 !>!E/2- E/2 z/2 G |1"D" F z z"C#7b9" !>!=F :|2"D" ^F"Bdim7"(=F"D" ^F2) |:
-"D"z .F z .F |"D" z .F (F=F |"C" E).E z .E |"A" z .E z .E |
-"D"z .D z .D |"D" z .F (F=F |"C" E).E"A7" z .E |1"A"z (=F"D" .^F) z :|2"A" z .E"D" F2 |:
-"D"F z/2 D/2- D/2 z/2 F |"C" E z z2 |"D" D z/2 B,/2- B,/2 z/2 ^B, |"G" C z =G z"A7" |
-"D"F z/2 D/2- D/2 z/2 F |"C" E z z2 |"A7" z2 G/2 z/2 G |1"D" F z z2"C#7b9" :|2"D" F"Bdim7" z"D" z2 |:
-
+"D"z .F (FD |"Em" E).E"A7" z .E |1"D"z (=F"D" .^F) z :|2"A7" z (=F"D" ^F2) 
+|:"D"F z/2 !^!D/2- D/2 z/2 D |"G" z z/2 !^!D/2- D/2 z/2 D |"D" z z/2 !^!D/2- D/2 z/2 D |"G".D.D .E.E"A7" |
+"D"z z/2 !^!D/2- D/2 z/2 D |"G" D z z D |"A" D z/2 !>!E/2- E/2 z/2 G |1"D" F z z"C#7b9" !>!=F :|2"D" ^F"Bdim7"(=F"D" ^F2) 
+|:"D"z .F z .F |"D" z .F (F=F |"C" E).E z .E |"A" z .E z .E |
+"D"z .D z .D |"D" z .F (F=F |"C" E).E"A7" z .E |1"A"z (=F"D" .^F) z :|2"A" z .E"D" F2 
+|:"D"F z/2 D/2- D/2 z/2 F |"C" E z z2 |"D" D z/2 B,/2- B,/2 z/2 ^B, |"G" C z =G z"A7" |
+"D"F z/2 D/2- D/2 z/2 F |"C" E z z2 |"A7" z2 G/2 z/2 G |1"D" F z z2"C#7b9" :|2"D" F"Bdim7" z"D" z2 
+||

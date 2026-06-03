@@ -1,0 +1,30 @@
+X:1
+T:The Kesh
+%%score 1 2 3
+L:1/8
+Q:3/8=130
+M:6/8
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble transpose=-12 nm="Top Horns" snm="Top H"
+V:3 bass nm="Bass Horns" snm="Bass H"
+L:1/8
+V:1
+|:"G""^The Kesh Jig""^Rhythm Intro" z6 |"G" z6 |"G" z6 |"G" z6 |$"G""^Chords Intro" G2 G GGG | %5
+"G" G2 G GGG |"G" G2 G GGG |"G" G2 G GGG |:$"G""^A-Part" G3 GAB |"D" A3 ABd |"Em" edd gdd | %11
+"C" edB"D" dBA |$"G" GAG GAB |"D" ABA ABd |"Em" edd"C" gdd |"D" ABF"G" G3 ::$"G" B2 B d2 d | %17
+"Em" ege dBA |"C" B2 B dBG |"D" ABA AGA |$"G" BAB d^cd |"C" ege dBd |"D" gfg aga |"G" bgg g3 :| %24
+ z3 !fermata!G3 |] %25
+L:1/8
+V:2
+|: z6 | z6 | z6 | z6 |$ [GBd]6 | [GBd]6 | [GBd]6 | [GBd]6 |:$ [GBd]2 [GBd]- [GBd]2 z | %9
+ [DFA]2 [DFA]- [DFA]2 z | [EGB]2 [EGB]- [EGB]2 z | [ceg]2 z [dfa]2 z |$ [GBd]2 [GBd]- [GBd]2 z | %13
+ [DFA]2 [DFA]- [DFA]2 z | [EGB]2 z [ceg]2 z | [DFA]2 z [GBd]2 z ::$ z2 [DGB]2 z2 | z2 [EGB]2 z2 | %18
+ z2 [CEG]2 z2 | z2 [DFA]2 z2 |$ [GBd]4 z2 | [ceg]4 z2 | [DFA]4 z2 | [GBd]4 z2 :| %24
+ z3 !fermata![GBd]3 |] %25
+L:1/8
+V:3
+|: z6 | z6 | z6 | z6 |$ z6 | z6 | z6 | z6 |:$ G,2 z D,2 z | D,2 z A,,2 z | E,2 z B,,2 z | %11
+ C,2 z D,2 z |$ G,2 z D,2 z | D,2 z A,,2 z | E,2 z C,2 z | D,2 z G,2 z ::$ G,4 z2 | E,4 z2 | %18
+ C,4 z2 | D,4 z2 |$ z2 D,4 | z2 C,4 | z2 D,4 | G,,6 :| z3 !fermata!G,,3 |] %25

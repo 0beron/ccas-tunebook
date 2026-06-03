@@ -5,9 +5,9 @@ Q:1/4=180
 M:9/8
 K:Dmaj
 "D" D2 z z3"G" A z (C |"D" D) z2 z3"A" A,B,C |"D" D z2 z3"G" G,2 ^A, |"Bm" B,3 z3"A" z2 C ::
-"Bm" B, z A, z G, z F, z z |"A" E,6 z3 |1
-"D" D3 A, z z A, z z |"D" D3 z3 z3 :|2"D" D3 A, z z A, z z |"D" D3 z3 z3 |:
-"D" D3 z3"G" G,3 |"D" D3 z3"A" E3 |"D" D3 z2 z"G" z2 z |"Bm" B,3 z2 z"A" C3 ::
+"Bm" B, z A, z G, z F, z z |"A" E,6 z3 |
+1"D" D3 A, z z A, z z |"D" D3 z3 z3 :|2"D" D3 A, z z A, z z |"D" D3 z3 z3 
+|:"D" D3 z3"G" G,3 |"D" D3 z3"A" E3 |"D" D3 z2 z"G" z2 z |"Bm" B,3 z2 z"A" C3 ::
 "G" B, z A, z G, z F, z z |"A" E,6 z2 z |"D" D3 A, z z"A" A, z z |
 "D" D3 z3 z3 ::
 

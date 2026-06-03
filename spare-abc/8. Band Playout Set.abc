@@ -1,0 +1,40 @@
+X:1
+T:Moll Roe
+%%score 1 2 3
+L:1/8
+Q:1/4=180
+M:9/8
+I:linebreak $
+K:G
+V:1 treble nm="Melody" snm="Mel"
+V:2 treble transpose=-12 nm="Top Horns" snm="Top H"
+V:3 bass nm="Bass Horns" snm="Bass H"
+L:1/8
+V:1
+|:"G""^Moll Roe""^\n""^End of gig. Thanks to audience, players, sound, etc., 16 bars into final Whalley Range set..." DGG GAG FGA | %1
+"G" B3 GAB"C" c3 |"G" DGG GAG FGA |"C" B3"D" cAF"G" G2 A ::$"D" ded cAG FGA |"G" ded cAB"C" c3 | %6
+"D" ded cAG FGA |"D" B3"C" cAF"G" G2 B :|$ %8
+[K:A]"F#m""^Farewell to Whalley Range (Michael McGoldrick)" F2 c BAF F2 E |"A" F2 c BAc fec | %10
+"Bm" B3 BAB c2 A |"C#m" B3 BAB cBA |$"F#m" F2 c BAF F2 E |"A" F2 c BAc fec |"Bm" B3 BAB c2 A | %15
+"C#m" B3 BAB cef |$"D" a3 fec fec |"E" B3 BAB cef |"Bm" a3 baf afe |"C#m" fec Bce fec |$ %20
+"D" a2 f fec fec |"E" B3 BAB cef |"Bm" a3 baf afe |"C#m" fec fec BAB ||$ %24
+"F#m""^======== Last time ========" F2 c BAF F2 E |"D" F2 c BAc fec |"E" B3 BAB c2 A | %27
+"B" B3 BAB cBA |$"F#m" F2 c BAF F2 E |"D" F2 c BAc fec |"E" B3 BAB c2 A |"B" B3 BAB cef |$ %32
+"D" a3 fec fec |"E" B3 BAB cef |"Bm" a3 baf afe |"C#m" fec Bce fec |$"D" a2 f fec fec | %37
+"E" B3 BAB cef |"Bm" a3 baf afe |"C#m" fec fec BAB |$ F8 z |] %41
+L:1/8
+V:2
+|: z9 | z9 | z9 | z9 ::$ z9 | z9 | z9 | z9 :|$[K:A] [cfa]2 [cfa]- [cfa]2 z z3 | %9
+ [cea]2 [cea]- [cea]2 z z3 | [Bdf]2 [Bdf]- [Bdf]2 z z3 | [ceg]2 [ceg]- [ceg]2 z z3 |$ %12
+ [cfa]2 [cfa]- [cfa]2 z z3 | [cea]2 [cea]- [cea]2 z z3 | [Bdf]2 [Bdf]- [Bdf]2 z z3 | %15
+ [ceg]2 [ceg]- [ceg]2 z z3 |$ [DFA]6 z3 | [EGB]6 z3 | [Bdf]6 z3 | [ceg]6 z3 |$!<(! [dfa]6 z3 | %21
+ [Beg]6 z3 | [Bdf]6 z3 | [Gce]6 z3!<)! ||$ [FAc] z [FAc] z2 [FAc] z3 | [DFA] z [DFA] z2 [DFA] z3 | %26
+ [EGB] z [EGB] z2 [EGB] z3 | [B,^DF] z [B,DF] z2 [B,DF] z3 |$ [FAc] z [FAc] z2 [FAc] z3 | %29
+ [DFA] z [DFA] z2 [DFA] z3 | [EGB] z [EGB] z2 [EGB] z3 | [B,^DF] z [B,DF] z2 [B,DF] z3 |$ F8 z | %33
+ G8 z | A8 z | B8 z |$!<(! d8 z | e8 z | f8 z | g8 z!<)! |$ a8 z |] %41
+L:1/8
+V:3
+|: z9 | z9 | z9 | z9 ::$ z9 | z9 | z9 | z9 :|$[K:A] z9 | z9 | z9 | z9 |$ z4 z F,4 | z4 z F,4 | %14
+ z4 z F,4 | z4 z F,4 |$ z9 | z9 | z9 | z9 |$!<(! D,8 z | E,8 z | B,8 z | C8 z!<)! ||$ z9 | z9 | %26
+ z9 | z9 |$ F,6 z2 z | D,6 z2 z | E,6 z2 z | B,,6 z2 z |$ D8 z | E,8 z | B,,8 z | C,,8 z |$ %36
+!<(! D,,8 z | E,,8 z | B,,8 z | C,8 z!<)! |$ F,,8 z |] %41

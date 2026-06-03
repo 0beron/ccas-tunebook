@@ -1,0 +1,85 @@
+X:1
+T:Circassian Circle Set
+%%score [ 1 | 2 ] [ 3 | 4 | 5 ] [ 6 | 7 | 8 ] { 9 | 10 }
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Violin 1" snm="Vln.1"
+V:2 treble nm="Violin 2" snm="Vln.2"
+V:3 treble transpose=-2 nm="Soprano Saxophone" snm="Sop. Sax."
+V:4 treble transpose=-14 nm="Tenor Saxophone 1" snm="T. Sax.2"
+V:5 treble transpose=-14 nm="Tenor Saxophone 2" snm="T. Sax.2"
+V:6 treble transpose=-2 nm="Trumpet in Bb" snm="Tpt."
+V:7 bass nm="Trombone" snm="Tbn."
+V:8 bass nm="Tuba" snm="Tba."
+V:9 treble nm="Piano" snm="Pno."
+V:10 bass 
+L:1/8
+V:1
+"^THE CENTENARY MARCH" cB |"D" A2 d>e"G" fed"A7"c |"D" d2"G" d>c"D" d2 DF |:"D" A2 A>B AFED |$ %4
+ f2 f>d"G" edBd |"D" A2 A>B AFED |"G6" E2 E>F"A" E2 DF |"D" A2 A>B AFED |$ f2 f>d"G" edcB | %9
+"D" A2 d>e"G" fed"A7"c |"D" d2"G" d>c"D" d2 Ad ||$"D" f3 a Adfa |"A7/E" g2"D" f2"A/C#" e2"A6" f>g | %13
+"D" afdA"D/F#" FA"G"GF |$"G6" E2 E>F"A" E2 F>G |"D" ADFA dAde | fagf"G" edcB |$ %17
+"D" Aa^ga"A7" =gece |1"D" d2"G" d>c"D" d2 DF :|2"D" d2"G" d>c"D" d2 z2 |] %20
+L:1/8
+V:2
+ z2 | z8 | z4 z2 B,D |: F2 F>G FDB,A, |$ d2 d>A BAGB | F2 F>G FDCB, | B,2 B,2 C2 A,D | %7
+ F2 F>G FDB,A, |$ d2 d>A BAGG | F2 B>c dcBA | A2 B2 A2 FA ||$ d3 f FAdf | e2 d2 c2 d>e | %13
+ fdAF DFED |$ B,2 B,>D C2 D>E | FA,DF AFAc | dfed cBAG |$ Ff^ef =ecAc | A2 B2 A2 B,D :| %19
+ A2 B2 A2 z2 |] %20
+L:1/8
+V:3
+[K:E] z2 | z8 | z4 z2 .E.G |: !slide!B2 B>c BGFE |$ !slide!g2 g>e fece | B2 B>c BGFE | %6
+ F2 F>G F2 .E.G | !slide!B2 B>c BGFE |$ !slide!g2 g>e fedc | B2 e>f gfed | e2 e>d e2 Be ||$ %11
+ !slide!g3 b Begb | a2 g2 f2 g>a | bgeB GBAG |$ F2 F>G F2 G>A | BEGB eBef | gbag fedc |$ %17
+ Bb^ab =afdf | e2 e>d e2 .E.G :| e2 e>d e2 z2 |] %20
+L:1/8
+V:4
+[K:E] z2 | z8 | z4 z2 .c.e |: !slide!g2 g>a gecB |$ !slide!e2 e>B cBAc | g2 g>a gedc | %6
+ c2 c2 d2 .B.e | !slide!g2 g>a gecB |$ !slide!e2 e>B cBAA | G2 c>d edcB | B2 c2 B2 GB ||$ %11
+ !slide!e3 g GBeg | f2 e2 d2 e>f | geBg egfe |$ c2 c2 d2 e>f | gBeg BGBd | egfe dcBA |$ %17
+ Gg^^fg ^fdBd | B2 c2 B2 .c.e :| B2 c2 B2 z2 |] %20
+L:1/8
+V:5
+[K:E] z2 | z8 | z4 z2 .A.B |: !slide!e2 e2 eBAG |$ !slide!b2 b>g agfa | e2 e>f ecBA | %6
+ A2 A2 B2 .A.B | e2 e2 eBAG |$ !slide!b2 b>g agfe | e2 a>b c'baf | g2 a2 g2 eg ||$ %11
+ !slide!b3 e EGBe | c2 B2 B2 c>d | eBGE Bedc |$ A2 A2 B2 B>d | eGBe gega | bedc BAGF |$ Eede cAFA | %18
+ G2 A2 g2 .A.B :| G2 A2 G2 z2 |] %20
+L:1/8
+V:6
+[K:E] z2 | z8 | z8 |: z .B z .B z .B z .B |$ z .B z .G z .A z .A | z .G/.G/ .G.A z .G z .G | %6
+ z .A z .A .B z z2 | z .B z .B z .B z .B |$ z .B z .G z .A z .A | z .G/.G/ .G.A z .A z .F | %10
+ z .G z .A .G z z2 ||$ z .B z .B z .B z .B | c2 B2 B2 z2 | z .B z .B z .B z .c |$ F2 F>G F2 z2 | %15
+ z .B z .B z .B z .B | z .B z .B z .c z .c |$ z .B z .B z .A z .A | G2 A2 .G z z2 :| G2 A2 G2 z2 |] %20
+L:1/8
+V:7
+ z2 | z8 | z8 |: z .F, z .F, z .F, z .F, |$ z .F, z .D, z .D, z .D, | %5
+ z .D,/.D,/ .D,.E, z .D, z .D, | z .B,, z .B,, .C, z z2 | z .F, z .F, z .F, z .F, |$ %8
+ z .F, z .D, z .D, z .D, | z .D,/.D,/ .D,.E, z .D, z .C, | z .A,, z .C, .D, z z2 ||$ %11
+ z .F, z .F, z .F, z .F, | G,2 F,2 E,2 z2 | z .F, z .F, z .F, z .G, |$ D,2 D,2 C,2 z2 | %15
+ z .F, z .F, z .F, z .F, | z .F, z .F, z .G, z .G, |$ z .F, z .F, z .E, z .E, | D,2 E,2 .D, z z2 :| %19
+ A,2 B,2 A,2 z2 |] %20
+L:1/8
+V:8
+ z2 | z8 | z4 z .A,, .B,,.C, |: .D,2 .A,,2 .D,2 .A,,2 |$ .D,2 .A,,2 .G,,2 .B,,2 | %5
+ .D,2 .C,2 .B,,2 .A,,2 | !tenuto!G,,2 !tenuto!B,,2 !tenuto!A,,2 .B,,.C, | .D,2 .A,,2 .D,2 .A,,2 |$ %8
+ .D,2 .A,,2 .G,,2 .B,,2 | .D,2 .A,,2 .G,,2 .A,,2 | .D,2 .A,,2 .D,2 .A,,2 ||$ %11
+ .D,2 .D,2 .F,,2 .F,,2 | .E,2 .D,2 .C,2 !tenuto!A,,2 | .D,2 .F,,2 .F,,2 .G,,2 |$ %14
+ !tenuto!G,,2 !tenuto!B,,2 !tenuto!A,,2 !tenuto!C,2 | .D,2 .A,,2 .D,2 .A,,2 | .D,2 .F,,2 G,,4 |$ %17
+ .F,,2 .A,,2 .B,,2 .C,2 | .D,2 .G,,2 D,.A,,.B,,.C, :| .D,2 .G,,2 .D,2 z2 |] %20
+L:1/8
+V:9
+ cB | A2 d>e fedc | d2 d>c d2 DF |: A2 A>B AFED |$ f2 f>d ed B/c/d/B/ | A2 A>B AFED | %6
+ E2 E>F E2 DF | A2 A>B AFED |$ f2 f>d edcB | A2 d>e fedc | d2 d>c d2 Ad ||$ f3 a Adfa | %12
+ g2 f2 e2 f>g | afdA FAGF |$ E2 E>F E2 F>G | ADFA dAde | fagf edcB |$ Aa^ga =gece | d2 d>c d2 DF :| %19
+ d2 d>c d2 z2 |] %20
+L:1/8
+V:10
+ z2 | z8 | z4 z .A,, .B,,.C, |: .D,2 .A,,2 .D,2 .A,,2 |$ .D,2 .A,,2 .G,,2 .B,,2 | %5
+ .D,2 .C,2 .B,,2 .A,,2 | !tenuto!G,,2 !tenuto!B,,2 !tenuto!A,,2 .B,,.C, | .D,2 .A,,2 .D,2 .A,,2 |$ %8
+ .D,2 .A,,2 .G,,2 .B,,2 | .D,2 .A,,2 .G,,2 .A,,2 | .D,2 .A,,2 .D,2 .A,,2 ||$ %11
+ .D,2 .D,2 .F,,2 .F,,2 | .E,2 .D,2 .C,2 !tenuto!A,,2 | .D,2 .F,,2 .F,,2 .G,,2 |$ %14
+ !tenuto!G,,2 !tenuto!B,,2 !tenuto!A,,2 !tenuto!C,2 | .D,2 .A,,2 .D,2 .A,,2 | .D,2 .F,,2 G,,4 |$ %17
+ .A,,2 .A,,2 .B,,2 .C,2 | .D,2 .G,,2 D,.A,,.B,,.C, :| .D,2 .G,,2 .D,2 z2 |] %20

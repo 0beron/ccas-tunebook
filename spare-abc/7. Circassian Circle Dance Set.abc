@@ -1,0 +1,41 @@
+X:1
+T:The Boys From Wexford
+%%score 1 2 3
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Melody" snm="Mel"
+V:2 treble transpose=-12 nm="Top Horns" snm="Top H"
+V:3 bass nm="Bass Horns" snm="Bass H"
+L:1/8
+V:1
+|:"D""^The Centenary (Arthur Kearney)" A z A>B AF ED |"Bm" f2 f>d"A" ed B/c/d/B/ | %2
+"D" A2 A>B AF ED |"G" E2 E>F"A" E2 DF |$"D" A2 A>B AF ED |"Bm" f2 f>d"A" ed B/c/d/B/ | %6
+"D" A2 d>e"G" fe"A" dc |"D" d2 d>c d2 Ad ::$"D" f3 a Ad fa |"G" g2 f2"A" e2 f>g | %10
+"Bm7" af dA FA GF |"G" E2 E>F"A" E2 F>G |$"D" AD FA dA de |"Bm" fa gf"A" ed cB | %14
+"D" Aa ^ga"G" =ge"A" ce |"D" d2 d>c d2 z2 ::$ %16
+[M:6/8]"D""^Lark In The Morning (A-Part)"[Q:3/8=120]"^\n" AFA AFA |"G" BGB BdB |"D" AFA AFA | %19
+"Bm7" fed BdB |$"D" AFA AFA |"G" BGB BdB |"Bm7" def afe |"A" dBB BdB ::$"D""^(B-Part)" def afe | %25
+"D" bff afe |"G" def afe |"G" dBB BdB |$"Bm7" def afe |"Bm7" bff afe |"A" g2 e f-f d | %31
+"A" edB BdB ::$"D""^(C-Part)" dff fef |"D" fef fef |"Am7" dff fef |"Am7" edB BdB |$"Em7" dff fef | %37
+"Em7" fef def |"Am7" g2 e f-f d |"Am7" edB BdB ::$"D""^(D-Part)" Add fdd |"D" edd fdd | %42
+"C" Add fdd |"C" edB BdB |$"Bm7" Add fdd |"Bm7" edB def |"Am7" g2 e f-f d |"Am7" edB BdB :| %48
+L:1/8
+V:2
+|: D2 z2 .D2 .D2 | B2 z2 .A2 .A2 | D2 z2 .D2 .D2 | G2 z2 .A2 .A2 |$ D2 z2 .D2 .D2 | B2 z2 .A2 .A2 | %6
+ F2 z2 .G2 .A2 | D6 z2 ::$ z8 | z8 | z8 | z8 |$ D2 z2 .D2 .D2 | B2 z2 .A2 .A2 | F2 z2 .G2 .A2 | %15
+ D6 z2 ::$[M:6/8] [DFA] z [DFA] z2 [DFA] | [DGB] z [DGB] z2 [DGB] | [DFA] z [DFA] z2 [DFA] | %19
+ [DFB] z [DFB] z2 [DFA] |$ [DFA] z [DFA] z2 [DFA] | [DGB] z [DGB] z2 [DGB] | %22
+ [DFB] z [DFB] z2 [DFB] | [CEA] z [CEA] z2 [CEA] ::$ z6 | z6 | z6 | z6 |$ z2 [DFB]- [DFB]2 z | %29
+ z2 [DFB]- [DFB]2 z | z2 [CEA]- [CEA]2 z | z2 [CEA]- [CEA]2 z ::$ D4 z2 | F4 z2 | G4 z2 | B4 z2 |$ %36
+ d4 z2 | g4 z2 | g4 z2 | b4 z2 ::$ A3 B3 | =c3 d3 | e3 f3 | g3 a3 |$!<(! g2 f2 e2 | d2 A2 B2 | %46
+ =c2 B2 A2 | G6!<)! :| %48
+L:1/8
+V:3
+|: z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 ::$ D6 z2 | B,6 z2 | A,6 z2 | G,4 E,4 |$ D,6 z2 | %13
+ B,,4 A,,4 | D,4 G,4 | D,4 z4 ::$[M:6/8] z6 | z6 | z6 | z6 |$ D,3 z3 | G,3 z3 | A,3 z3 | E,3 z3 ::$ %24
+ D,3 z2 z | F,3 z2 z | G,3 z2 z | B,3 z2 z |$ A,3 z3 | F,3 z3 | E,3 z3 | C,3 z3 ::$ z2 A,- A,2 z | %33
+ z2 F,- F,2 z | z2 =C,- C,2 z | z2 A,,- A,,2 z |$ z2 G,- G,2 z | z2 E,- E,2 z | z2 =C,- C,2 z | %39
+ z2 A,,- A,,2 z ::$ z3 B,,3 | z3 D,3 | z3 F,3 | z3 A,3 |$!<(! =B,4 z2 | A,3 G,3 | E,4 z2 | %47
+ D,3 =C,3!<)! :| %48
