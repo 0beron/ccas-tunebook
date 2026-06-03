@@ -4,10 +4,10 @@ L:1/8
 Q:1/4=180
 M:9/8
 K:Dmaj
-"D"z2 [Af] z [Af] z"G" [Ge]2 z |"D" z2 [Af] z [Af] z"A" [Ag]2 z |"D" z2 [Af] z [Af] z"G" [Ge]2 z |"Bm"[DBf]4 z2"A" [Ace]2 z ::
-"Bm"[Be] z [Ad] z [Ac] z [GB][Ac][Bd] |"A" [Ae]4 z z A2 z |
-1"D"[Ad]3 z3 [Gc]2 z |"D"[Ad]3 z3 z3 :|2"D" [Ad]3 z3 [Gc]2 z |"D" [Ad]3 z3 z3 
-|:"D"d3 z z G"G" B z z |"D" d3 z z G"A" A z z |"D"d3 z z G"G" B z z |"Bm" [DBf]4 z z"A" [Ace]2 z ::
-"G"[Gd] z [Fc] z [EB] z [DA][Fc][Gd] |"A" [Ae]6 z2 C |"D"[DAd]6"A" G2 z |
-"D"[DAd]6 z3 ::
-
+"D"z2 [Af] z [Af] z"G" [Ge]2 z |"D" z2 [Af] z [Af] z"A" [Ag]2 z |"D" z2 [Af] z [Af] z"G" [Ge]2 z |"Bm"[DBf]4 z2"A" [Ace]2 z :|
+|:"Bm"[Be] z [Ad] z [Ac] z [GB][Ac][Bd] |"A" [Ae]4 z z A2 z |
+|1 "D"[Ad]3 z3 [Gc]2 z |"D"[Ad]3 z3 z3 :|2"D" [Ad]3 z3 [Gc]2 z |"D" [Ad]3 z3 z3 
+|:"D"d3 z z G"G" B z z |"D" d3 z z G"A" A z z |"D"d3 z z G"G" B z z |"Bm" [DBf]4 z z"A" [Ace]2 z :|
+|:"G"[Gd] z [Fc] z [EB] z [DA][Fc][Gd] |"A" [Ae]6 z2 C |"D"[DAd]6"A" G2 z |
+"D"[DAd]6 z3 :|
+|:

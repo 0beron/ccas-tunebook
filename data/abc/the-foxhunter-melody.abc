@@ -4,10 +4,10 @@ L:1/8
 Q:1/4=180
 M:9/8
 K:D
-"D""^The Foxhunter" FGF FED"G" G2 E |"D" FGF FED"A" E2 D |"D" FGF FED"G" G2 B |"Bm" AFD DEF"A" E2 D ::
-"Bm" B=cB BAG FGA |"A" B2 E E2 F G2 B |
-1"D" ABc dcB ABc |"D" d2 D DEF E2 D :|2"D" ABc dcB ABc |"D" d2 D DEF E2 D 
-|:"D" fgf fed"G" g2 e |"D" fgf fed"A" e2 d |"D" fgf fed"G" g2 b |"Bm" afd def"A" e2 d ::
-"G" gfe dcB AGF |"A" B2 E E2 F G2 B |"D" ABc dcB"A" ABc |
-"D" d2 D DEF E2 D ::
-
+"D""^The Foxhunter" FGF FED"G" G2 E |"D" FGF FED"A" E2 D |"D" FGF FED"G" G2 B |"Bm" AFD DEF"A" E2 D :|
+|:"Bm" B=cB BAG FGA |"A" B2 E E2 F G2 B |
+|1 "D" ABc dcB ABc |"D" d2 D DEF E2 D :|2"D" ABc dcB ABc |"D" d2 D DEF E2 D 
+|:"D" fgf fed"G" g2 e |"D" fgf fed"A" e2 d |"D" fgf fed"G" g2 b |"Bm" afd def"A" e2 d :|
+|:"G" gfe dcB AGF |"A" B2 E E2 F G2 B |"D" ABc dcB"A" ABc |
+"D" d2 D DEF E2 D :|
+|:

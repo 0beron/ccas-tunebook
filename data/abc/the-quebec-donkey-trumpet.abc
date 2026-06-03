@@ -5,11 +5,11 @@ Q:1/4=110
 M:2/4
 K:Gmaj
 |: z4 | z4 | z4 | z4 |
-z4 | z4 | z4 | z4 ::
-"C"C>D E z |"C" z3 E |"Am" E z/2 E/2 z2 |"Am" E z/2 E/2 z2 |
-"C"C>E G z |"C" z3 D |"G" E2"D" D2 |"Em" B,2 B,2 ::
-"G"z4 |"G" z3 F |"C" GF F z |"D" GF F z |
-"G"z4 |"G" z3 F |"C" G2"D" F2 |"Em" B,3 z ::
-"C"G, z"G/B" B, z |"Am7" A, z"Em/G" B, z |"Am7" E z/2 E/2 z2 |"Bm7" F z/2 F/2 z2 |
-"C"G, z"G7/B" G, z |"Am7" A, z"G" B, z |"Cmaj7" B, z"Bm7" A, z |"Em" B,2 B,2 ::
-
+z4 | z4 | z4 | z4 :|
+|:"C"C>D E z |"C" z3 E |"Am" E z/2 E/2 z2 |"Am" E z/2 E/2 z2 |
+"C"C>E G z |"C" z3 D |"G" E2"D" D2 |"Em" B,2 B,2 :|
+|:"G"z4 |"G" z3 F |"C" GF F z |"D" GF F z |
+"G"z4 |"G" z3 F |"C" G2"D" F2 |"Em" B,3 z :|
+|:"C"G, z"G/B" B, z |"Am7" A, z"Em/G" B, z |"Am7" E z/2 E/2 z2 |"Bm7" F z/2 F/2 z2 |
+"C"G, z"G7/B" G, z |"Am7" A, z"G" B, z |"Cmaj7" B, z"Bm7" A, z |"Em" B,2 B,2 :|
+|:
