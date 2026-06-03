@@ -1,0 +1,15 @@
+X:1
+T:All The Way To Galway (The Kerry Cow)
+L:1/8
+Q:3/8=80
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Melody" snm="Mel"
+L:1/8
+V:1
+|:"A" c3 B A2 |"D" f3 e c2 |"A" e6 |"A" e4 AB |"A" c3 B A2 |"D" f3 e c2 |"Bm" c/B/-B- B4 | %7
+"E" B4 AB |$"A" c3 B A2 |"D" f3 e c2 |"A" e4 A2 |"F#m" a4 d/e/f |"A" e3 A/B/ c2 |"E" B4 A2 | %14
+"D" A6 |"D" A4 z2 ::$"D" f3 ^g f2 |"D" a3 ^g f2 |"A" e6 |"A" e4 ce |"F#m" f3 e c2 | %21
+"A" e/A/-A- A2 c2 |"E" B6 |"E" B4 ce |$"D" f3 ^g f2 |"D" a3 ^g f2 |"A" e4 A2 |"F#m" a4 d/e/f | %28
+"A" e4 A/B/c |"E" B4 A2 |"D" A6 |"D" A4 z2 :| %32

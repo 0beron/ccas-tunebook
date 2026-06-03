@@ -4,18 +4,18 @@ L:1/8
 Q:1/4=110
 M:2/4
 K:Dmaj
-dd B/c/d/B/ | AF AF | z4 | z4 |
-dd B/c/d/B/ | AF AF | G z A z | FG F2 ||
-dd B/c/d/B/ | AF AF | z4 | z4 |
-dd B/c/d/B/ | AF AF | A z G z | F2 F2 |:
+dd B/2c/2d/2B/2 | AF AF | z4 | z4 |
+dd B/2c/2d/2B/2 | AF AF | G z A z | FG F2 ||
+dd B/2c/2d/2B/2 | AF AF | z4 | z4 |
+dd B/2c/2d/2B/2 | AF AF | A z G z | F2 F2 |:
 "D"z .A z .A |"G" z .G"A7" z .A |"D" z .F z .F |"A7"z .G .A2 |
 "D"z .A z .A |"G" z .G"A" z .A |"D" .F.F"A7" .E.A |1"D" .F2 .F2 :|2"D" .F2 .F2 |:
-!>!D/ z/ !>!D/ z/ z z | z4 | !>!D/ z/ !>!D/ z/ z z | z4 |
-!>!D/ z/ !>!D/ z/ z z | z4 |"D"B, z"A7" A, z |1"D" D2 D2 :|2"D" D2 D2"A7" |:
-"D"z .A z .F |"G" z .G"A7" z .E |"D" z .F z .D | z .F"A7" A2 |
+!>!D/2 z/2 !>!D/2 z/2 z z | z4 | !>!D/2 z/2 !>!D/2 z/2 z z | z4 |
+!>!D/2 z/2 !>!D/2 z/2 z z | z4 |"D"B, z"A7" A, z |1"D" D2 D2 :|2"D" D2 D2"A7" |:
+"D"z .A z .F |"G" z .G"A7" z .E |"D" z .F z .D | z .F A2"A7" |
 "D"z .A z .F |"G" z .G"A7" z .G |"D" AF"A7" GE |1"D" F z F2 :|2"D" F z F2 |:
-!>!A/ z/ !>!A/ z/"G" z B |"D"z A/ z/ z A | !>!A/ z/ !>!A/ z/"G" z B |"A" z A"D" z A |
-!>!A/ z/ !>!A/ z/"G" z B |"D" z A z F |"D"E z"A7" C z |1"D" D2 D2 :|2"D" D2 D2"A7" |:
+!>!A/2 z/2"G" !>!A/2 z/2 z B |"D"z A/2 z/2 z A | !>!A/2 z/2"G" !>!A/2 z/2 z B |"A" z A"D" z A |
+!>!A/2 z/2"G" !>!A/2 z/2 z B |"D" z A z F |"D"E z"A7" C z |1"D" D2 D2 :|2"D" D2 D2"A7" |:
 "D"z .A z .A |"G" z .G"A7" z .E |"D" z .F z .F |"A7" z .G A2 |
 "D"z .A z .A |"G" z .G"A7" z .E |"D" z .F"A7" z .G |1"D" F z F2 :|2"D" F z F2 |
 

@@ -1,0 +1,47 @@
+X:1
+T:All The Way To Galway (The Kerry Cow)
+%%score 1 2 3
+L:1/8
+Q:1/4=160
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Melody" snm="Mel"
+V:2 treble transpose=-14 nm="Top Horns" snm="Top H"
+V:3 bass nm="Bass Horns" snm="Bass H"
+L:1/8
+V:1
+|:"A""^The Mooncoin Jig" cBA AEA |"A" AEA"G" Bcd |"A" cBA Ace |"E" dBG Bcd |$"A" cBA AEA | %5
+"A" AEA"G" Bcd |"F#m" Ace"Em" gfe |"G" dBG Bcd ::$"A" cde efg |"D" f/g/af"Em" ged |"A" cde efg | %11
+"D" faA"G" Bcd |$"A" cde efg |"D" afd"G" bge |"D" afd"C" ge=c |"G" dBG Bcd ::$"A" cBA Aaf | %17
+"A" ecA"G" Bcd |"A" cBA"C" g2 e |"G" dBG Bcd |$"A" cBA Aaa |"A" Agg Aff |"F#m" Aee efg | %23
+"G" dBG Bcd ::$[K:F]"Gsus2""^Seanamhac Tube Station" GFD D2 F |"Dm7" GAc d3 |"Bbmaj7" dcA cAF | %27
+"Csus2" GFD C2 D |$"Gsus2" GFD D2 F |"Dm7" GAc d3 |"Bbmaj7" dcA cAF |1"Csus2" G2 A B2 A :|2 %32
+"C" G2 A B2 c |:$"Bb" d3 dcA |"F" c3 cAc |"Bb" dcA"F" cAF |"C" GFD C2 D |1$"Bb" d3 dcA | %38
+"F" c3 cAc |"Bb" dcA"F" cAF |"C" G3 G3 :|2$"Gm" GFD GFD |"Gm" GFD C2 D |"Dm" dcA cAF | %44
+"F" G2 A B{c}BA |:$"Gm" d3 g3 |"F" f2 g a2 f |"C" gfd c3 |"D" dcA GAc |$"Gm" g3 gfd |"F" f3 fga | %51
+"Bb" gfd"F" cAF |"Gm" G3 GAc :| %53
+L:1/8
+V:2
+[K:E]|:!f! [df]2 .[df] z3 | [ca]2 z ([eg]2 [df]-) | [df]3 [Bd]3 | [Ac]3 [FA]3 |$ %4
+!f! [df]2 .[df] z3 | [ca]2 .[eg] z3 |!mf! [GBd]6 | [Ace]6 ::$!f! z2 [df] z [df] z | %9
+ [fa]3 ([eg]2 [df]) | z6 | z6 |$ z2 [df] z [df] z | [eg]3 [ce]3 | [Be]3 [=df]3 | [ca]6 ::$ %16
+ [df]3/2 z/ .[df] z3 | [ca]3/2 z/ .[eg] z3 | [df]3 [Bf]3 | [Ac]3 [EG]3 |$ z3 z .[fb].[fb] | %21
+ z .[fa].[fa] z .[eg].[eg] | [^GB^d]6 | [ce]3 [gb]3 ::$[K:G]!mf! [Aeb]6 | [Bgb]6 | [cgb]6 | %27
+!f! z [Ad][^A^d] [Be][=dg][^d^g] |$ [Aeab]6 | [Bgb]6 | [ceb]3 [ceb]3 | [dab]6 :| [dfa]6 |:$ z6 | %34
+ z6 | z6 |!f! z [da][^d^a] [eb][da][=d=a] |$ [cg]2 z z2 z | z6 | z6 | z6 :|$!mp!!<(! cBA cBA | %42
+ cBA cBA | BAG BAG!<)! |!f! z [Ad][^A^d] [Be][=dg][^d^g] |:$ [Ace]3 [cea]3 | [Bdg]3 z3 | z6 | z6 |$ %49
+ [EAc] z [EAc] z2 z | [GBd] z [GBd] z2 z | [ceg]2 z [GBd]2 z | [EAc]6 :| %53
+L:1/8
+V:3
+|:"A"!f! A,,2 .A,, z3 |"A" G,,2 z"G" (^G,,2 A,,-) |"A" A,,3 C,3 |"E" G,3 B,,3 |$ %4
+"A"!f! A,,2 .A,, z3 |"A" (G,,2 .^G,,)"G" z3 |"F#m"!mf! z3"Em" F,,3 |"G" G,,3 ^G,,2 z ::$ %8
+"A"!f! A,,2 z z2 z |"D" D,3"Em" (E,2 A,,) |"A" z6 |"D" G,,3"G" ^G,,2 A,, |$"A" A,,3 z2 z | %13
+"D" D,2 z"G" G,,2 z |"D" D,2 z"C" =C,2 z |"G" G,,6 ::$"A"!f! A,,2 z z2 z |"A" D,3"G" (E,2 A,,) | %18
+"A""C" z6 |"G" G,,3 ^G,,2 A,, |$"A" A,,3 z2 z |"A" E,2 z A,,2 z |"F#m" A,,2 z C,2 z |"G" D,6 ::$ %24
+[K:F]"Gsus2" G,,2 z z2 z |"Dm7" D,,2 z z2 z |"Bbmaj7" B,,2 z z2 z |"Csus2" C,,2 z z2 z |$ %28
+"Gsus2" G,,2 z z2 z |"Dm7" D,,2 z z2 z |"Bbmaj7" B,,2 z z2 z |"Csus2" C,2 z z2 z :|"C" z6 |:$ %33
+"Bb" B,,3 B,,A,,G,, |"F" F,,3 F,,G,,A,, |"Bb" B,,2 z"F" F,,2 z |"C" C,,2 z z2 z |$ %37
+"Bb" B,,3 B,,A,,G,, |"F" F,,3 F,,G,,A,, |"Bb" B,,2 z"F" F,,2 z |"C" G,,2 z z2 z :|$"Gm"!<(! G,,6 | %42
+"Gm" G,,6 |"Dm" D,6!<)! |"F" F,,6 |:$"Gm" G,,3 G,,3 |"F" D,,3 z2 z |"C" z6 |"D" z6 |$ %49
+"Gm" G,, z G,, z2 z |"F" A,, z A,, z2 z |"Bb" B,,3"F" C,3 |"Gm" G,,6 :| %53
