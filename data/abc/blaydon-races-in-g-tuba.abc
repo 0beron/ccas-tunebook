@@ -4,11 +4,11 @@ L:1/8
 Q:3/8=120
 M:6/8
 K:Gmaj
-"G" G,2 z D2 z |"G" G,2 D, G,A,B, |"D7" D2 z A,2 z |"G" G,2 A, B,A,G, |"C" C2 z A,2 z |
-"G" G,2 z B,2 z |"A7" A,2 z ^C2 z |"D7" DD,E, F,E,D, |"G" G,2 z D2 z |"G" G,2 D, G,A,B, |
-"D7" D2 z A,2 z |"G" G,2 A, B,A,G, |"C" C2 z A,2 z |"G" G,2 z B,2 C |"D7" D2 D, D,E,F, |
-"G" G,2 z D,2 z |"G" G,2 z D2 z |"G" G,2 D, G,A,B, |"D7" D2 z A,2 z |"G" G,2 A, B,A,G, |
-"C" C2 z A,2 z |"G" G,2 z B,2 z |"A7" A,2 z ^C2 z |"D7" DD,E, F,E,D, |"G" G,2 z D2 z |
-"G" G,2 D, G,A,B, |"D7" D2 z A,2 z |"G" G,2 A, B,A,G, |"C" C2 z A,2 z |
-"G" G,2 z B,2 C |"D7" D2 D, D,E,F, |"G" G,2 E, E,F,^G, ||
+"G" G2 z d2 z |"G" G2 D GAB |"D7" d2 z A2 z |"G" G2 A BAG |"C" c2 z A2 z |
+"G" G2 z B2 z |"A7" A2 z ^c2 z |"D7" dDE FED |"G" G2 z d2 z |"G" G2 D GAB |
+"D7" d2 z A2 z |"G" G2 A BAG |"C" c2 z A2 z |"G" G2 z B2 c |"D7" d2 D DEF |
+"G" G2 z D2 z |"G" G2 z d2 z |"G" G2 D GAB |"D7" d2 z A2 z |"G" G2 A BAG |
+"C" c2 z A2 z |"G" G2 z B2 z |"A7" A2 z ^c2 z |"D7" dDE FED |"G" G2 z d2 z |
+"G" G2 D GAB |"D7" d2 z A2 z |"G" G2 A BAG |"C" c2 z A2 z |
+"G" G2 z B2 c |"D7" d2 D DEF |"G" G2 E EF^G ||
 

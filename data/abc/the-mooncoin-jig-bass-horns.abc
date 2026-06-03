@@ -4,9 +4,9 @@ L:1/8
 Q:1/4=160
 M:6/8
 K:D
-|:"A"!f! A,2 .A, z3 |"A" G,2 z"G" (^G,2 A,-) |"A" A,3 C3 |"E" G3 B,3 |
-"A"!f! A,2 .A, z3 |"A" (G,2 .^G,)"G" z3 |"F#m"!mf! z3"Em" F,3 |"G" G,3 ^G,2 z :|
-|:"A"!f! A,2 z z2 z |"D" D3"Em" (E2 A,) |"A" z6 |"D" G,3"G" ^G,2 A, |
-"A" A,3 z2 z |"D" D2 z"G" G,2 z |"D" D2 z"C" =C2 z |"G" G,6 :|
-|:"A"!f! A,2 z z2 z |"A" D3"G" (E2 A,) |"A""C" z6 |"G" G,3 ^G,2 A, |
-"A" A,3 z2 z |"A" E2 z A,2 z |"F#m" A,2 z C2 z |"G" D6 :|
+|:"A"!f! A2 .A z3 |"A" G2 z"G" (^G2 A-) |"A" A3 c3 |"E" g3 B3 |
+"A"!f! A2 .A z3 |"A" (G2 .^G)"G" z3 |"F#m"!mf! z3"Em" F3 |"G" G3 ^G2 z :|
+|:"A"!f! A2 z z2 z |"D" d3"Em" (e2 A) |"A" z6 |"D" G3"G" ^G2 A |
+"A" A3 z2 z |"D" d2 z"G" G2 z |"D" d2 z"C" =c2 z |"G" G6 :|
+|:"A"!f! A2 z z2 z |"A" d3"G" (e2 A) |"A""C" z6 |"G" G3 ^G2 A |
+"A" A3 z2 z |"A" e2 z A2 z |"F#m" A2 z c2 z |"G" d6 :|

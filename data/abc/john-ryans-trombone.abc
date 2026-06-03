@@ -4,18 +4,18 @@ L:1/8
 Q:1/4=110
 M:2/4
 K:Dmaj
-dd B/2c/2d/2B/2 | AF AF | z4 | z4 |
-dd B/2c/2d/2B/2 | AF AF | G z A z | FG F2 ||
-dd B/2c/2d/2B/2 | AF AF | z4 | z4 |
-dd B/2c/2d/2B/2 | AF AF | A z G z | F2 F2 
-|:"D"z .A z .A |"G" z .G"A7" z .A |"D" z .F z .F |"A7"z .G .A2 |
-"D"z .A z .A |"G" z .G"A" z .A |"D" .F.F"A7" .E.A |1"D" .F2 .F2 :|2"D" .F2 .F2 
-|:!>!D/2 z/2 !>!D/2 z/2 z z | z4 | !>!D/2 z/2 !>!D/2 z/2 z z | z4 |
-!>!D/2 z/2 !>!D/2 z/2 z z | z4 |"D"B, z"A7" A, z |1"D" D2 D2 :|2"D" D2 D2"A7" 
-|:"D"z .A z .F |"G" z .G"A7" z .E |"D" z .F z .D | z .F A2"A7" |
-"D"z .A z .F |"G" z .G"A7" z .G |"D" AF"A7" GE |1"D" F z F2 :|2"D" F z F2 
-|:!>!A/2 z/2"G" !>!A/2 z/2 z B |"D"z A/2 z/2 z A | !>!A/2 z/2"G" !>!A/2 z/2 z B |"A" z A"D" z A |
-!>!A/2 z/2"G" !>!A/2 z/2 z B |"D" z A z F |"D"E z"A7" C z |1"D" D2 D2 :|2"D" D2 D2"A7" 
-|:"D"z .A z .A |"G" z .G"A7" z .E |"D" z .F z .F |"A7" z .G A2 |
-"D"z .A z .A |"G" z .G"A7" z .E |"D" z .F"A7" z .G |1"D" F z F2 :|2"D" F z F2 |
+d'd' b/2c'/2d'/2b/2 | af af | z4 | z4 |
+d'd' b/2c'/2d'/2b/2 | af af | g z a z | fg f2 ||
+d'd' b/2c'/2d'/2b/2 | af af | z4 | z4 |
+d'd' b/2c'/2d'/2b/2 | af af | a z g z | f2 f2 
+|:"D"z .a z .a |"G" z .g"A7" z .a |"D" z .f z .f |"A7"z .g .a2 |
+"D"z .a z .a |"G" z .g"A" z .a |"D" .f.f"A7" .e.a |1"D" .f2 .f2 :|2"D" .f2 .f2 
+|:!>!d/2 z/2 !>!d/2 z/2 z z | z4 | !>!d/2 z/2 !>!d/2 z/2 z z | z4 |
+!>!d/2 z/2 !>!d/2 z/2 z z | z4 |"D"B z"A7" A z |1"D" d2 d2 :|2"D" d2 d2"A7" 
+|:"D"z .a z .f |"G" z .g"A7" z .e |"D" z .f z .d | z .f a2"A7" |
+"D"z .a z .f |"G" z .g"A7" z .g |"D" af"A7" ge |1"D" f z f2 :|2"D" f z f2 
+|:!>!a/2 z/2"G" !>!a/2 z/2 z b |"D"z a/2 z/2 z a | !>!a/2 z/2"G" !>!a/2 z/2 z b |"A" z a"D" z a |
+!>!a/2 z/2"G" !>!a/2 z/2 z b |"D" z a z f |"D"e z"A7" c z |1"D" d2 d2 :|2"D" d2 d2"A7" 
+|:"D"z .a z .a |"G" z .g"A7" z .e |"D" z .f z .f |"A7" z .g a2 |
+"D"z .a z .a |"G" z .g"A7" z .e |"D" z .f"A7" z .g |1"D" f z f2 :|2"D" f z f2 |
 

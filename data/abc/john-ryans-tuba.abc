@@ -4,18 +4,18 @@ L:1/8
 Q:1/4=110
 M:2/4
 K:Dmaj
-FF D/2E/2F/2D/2 | DA, DA, | z4 | z4 |
-FF D/2E/2F/2D/2 |DA, DA, | G,B, A,C | DD, D2 ||
-FF D/2E/2F/2D/2 | DA, DA, | z4 | z4 |
-FF D/2E/2F/2D/2 | DA, DA, | DF, G,A, | D,2 D,2 
-|:"D" D z F, z |"G" G, z"A7" ^G, z |"D" A, z ^A, z |"A7" B, z C z |
-"D" D z F, z |"G" G, z"A" B, z |"D" A,A,"A7" B,C |1"D" D z D2 :|2"D" D z D2 
+ff d/2e/2f/2d/2 | dA dA | z4 | z4 |
+ff d/2e/2f/2d/2 |dA dA | GB Ac | dD d2 ||
+ff d/2e/2f/2d/2 | dA dA | z4 | z4 |
+ff d/2e/2f/2d/2 | dA dA | dF GA | D2 D2 
+|:"D" d z F z |"G" G z"A7" ^G z |"D" A z ^A z |"A7" B z c z |
+"D" d z F z |"G" G z"A" B z |"D" AA"A7" Bc |1"D" d z d2 :|2"D" d z d2 
 |:z4 | z4 | z4 | z4 |
 z4 | z4 |"D""A7" z4 |1"D" z4 :|2"D""A7" z4 
-|:"D" D z F, z |"G" G, z"A7" ^G, z |"D" A, z ^A, z | B, z"A7" C z |
-"D" D z F, z |"G" G, z"A7" A, z |"D" DA,"A7" B,C |1"D" D2 D2 :|2"D" D z D2 
-|:!>!D/2 z/2 !>!D/2 z/2"G" G, z |"D" D z A, z | !>!D/2 z/2 !>!D/2 z/2"G" G, z |"A" A, z"D" D z |
-!>!D/2 z/2 !>!D/2 z/2"G" G, z |"D" D z F, z |"D" ^G, z"A7" A, z |1"D" D,2 D,2 :|2"D" D,2"A7" D,2 
-|:"D" D z F, z |"G" G, z"A7" ^G, z |"D" A, z ^A, z |"A7" B, z C z |
-"D" D z F, z |"G" G, z"A7" B, z |"D" A,A,"A7" B,C |1"D" .D z D2 :|2"D" .D z D2 |
+|:"D" d z F z |"G" G z"A7" ^G z |"D" A z ^A z | B z"A7" c z |
+"D" d z F z |"G" G z"A7" A z |"D" dA"A7" Bc |1"D" d2 d2 :|2"D" d z d2 
+|:!>!d/2 z/2 !>!d/2 z/2"G" G z |"D" d z A z | !>!d/2 z/2 !>!d/2 z/2"G" G z |"A" A z"D" d z |
+!>!d/2 z/2 !>!d/2 z/2"G" G z |"D" d z F z |"D" ^G z"A7" A z |1"D" D2 D2 :|2"D" D2"A7" D2 
+|:"D" d z F z |"G" G z"A7" ^G z |"D" A z ^A z |"A7" B z c z |
+"D" d z F z |"G" G z"A7" B z |"D" AA"A7" Bc |1"D" .d z d2 :|2"D" .d z d2 |
 
